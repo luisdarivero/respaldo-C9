@@ -1,0 +1,13 @@
+[user]
+    name = LuisDa Riv
+    email = luisdarivero.s@gmail.com
+[core]
+    editor = nano
+    whitespace = off
+    excludesfile = ~/.gitignore
+[advice]
+    statusuoption = false
+[color]
+    ui = true
+[push]
+    default = current

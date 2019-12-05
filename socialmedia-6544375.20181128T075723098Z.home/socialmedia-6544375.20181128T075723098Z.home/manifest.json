@@ -1,0 +1,12 @@
+{
+  "name": "socialmedia",
+  "id": "6544375",
+  "description": "My application to manage social media",
+  "gitUrl": "",
+  "workspaceType": "python-plain",
+  "dockerBaseImage": "cloud9/ws-python-plain:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "luisyo_985",
+    "id": "1441933"
+  }
+}

@@ -1,0 +1,675 @@
+981020,Online Merchandising Advisor,https://gis.aiesec.org/v2/opportunities/981020,open,open,GT,0,77,2018-07-16,2018-08-05,2020-01-30,UTP,2018-06-18,Marketing,DELL Panama- S.A.,1,1,1200
+980627,Procurement Human Resources,https://gis.aiesec.org/v2/opportunities/980627,open,open,GT,8,55,2018-07-15,2018-06-16,2019-07-10,USMA,2018-06-15,Business Administration,Sanofi Aventis,1,1,1300
+980451,Finance May,https://gis.aiesec.org/v2/opportunities/980451,open,open,GT,1,26,2018-06-26,2018-07-06,2019-01-06,UTP,2018-06-15,Null,Philips Latin America,1,1,1200
+980226,External Relations - F. Palabra y Poder - Improve Project,https://gis.aiesec.org/v2/opportunities/980226,open,unmatched,GV,0,6,2018-06-15,2018-06-17,2018-07-29,UTP,2018-06-14,Null,Panama,2,2,Null
+980025,SHE is Valuable (ELLA es Valiosa)  -IMPULSE,https://gis.aiesec.org/v2/opportunities/980025,open,open,GV,0,6,2018-10-19,2018-10-31,2018-12-16,Chiriqui,2018-06-13,Null,Chiriqui,2,2,Null
+979690,Budget Administrator,https://gis.aiesec.org/v2/opportunities/979690,open,open,GT,40,77,2018-07-16,2018-07-08,2020-01-02,UTP,2018-06-11,Business Administration,DELL Panama- S.A.,1,1,1200
+978788,Inside sales support,https://gis.aiesec.org/v2/opportunities/978788,open,open,GT,40,77,2018-07-16,2018-07-29,2020-01-23,UTP,2018-06-08,Business Administration,DELL Panama- S.A.,1,1,1200
+978436,Human Resources Leadership Development Assitant,https://gis.aiesec.org/v2/opportunities/978436,open,open,GT,44,77,2018-07-16,2018-07-22,2020-01-16,USMA,2018-06-07,Other,Sanofi Aventis,1,1,1300
+978121,Asistente de Dirección de Marketing,https://gis.aiesec.org/v2/opportunities/978121,open,matched,GT,11,26,2018-06-30,2018-08-20,2019-02-18,UTP,2018-06-06,Null,JCDecaux Panamá,1,0,1000
+977092,Trade Channel Marketing Intern,https://gis.aiesec.org/v2/opportunities/977092,open,open,GT,87,77,2018-07-16,2018-07-08,2020-01-02,UTP,2018-06-01,Marketing,DELL Panama- S.A.,1,1,1200
+977013,Distribution SSR Support,https://gis.aiesec.org/v2/opportunities/977013,open,approved,GT,27,77,2018-06-30,2018-07-09,2020-01-05,UTP,2018-05-31,Business Administration,DELL Panama- S.A.,1,0,1200
+977010,Services Sales -  APOS Support,https://gis.aiesec.org/v2/opportunities/977010,open,approved,GT,39,77,2018-06-30,2018-07-09,2020-01-05,UTP,2018-05-31,Business Administration,DELL Panama- S.A.,1,0,1200
+977006,Services Sales - APOS Distribution Support,https://gis.aiesec.org/v2/opportunities/977006,open,open,GT,64,77,2018-06-29,2018-07-08,2020-01-04,UTP,2018-05-31,Business Administration,DELL Panama- S.A.,1,1,1200
+976795,Soporte a Marketing y Eventos Sanofi Genzyme,https://gis.aiesec.org/v2/opportunities/976795,open,matched,GT,12,77,2018-06-28,2018-06-08,2019-12-05,USMA,2018-05-31,Marketing,Sanofi Aventis,1,0,1300
+976645,Soporte a Marketing y Eventos Sanofi Genzyme,https://gis.aiesec.org/v2/opportunities/976645,draft,draft,GT,0,78,2018-06-15,2018-07-09,2020-01-09,USMA,2018-05-30,Marketing,SANOFI AVENTIS,1,1,Null
+976053,Junior Product/Brand Management,https://gis.aiesec.org/v2/opportunities/976053,open,open,GT,97,52,2018-06-30,2018-07-10,2019-07-09,UTP,2018-05-28,Null,GLAXOSMITHKLINE,1,1,1400
+975251,Arquitecto de Soluciones,https://gis.aiesec.org/v2/opportunities/975251,open,open,GT,13,56,2018-06-25,2018-06-18,2019-07-15,BALBOA,2018-05-25,Other,Copa Airlines,1,1,1200
+975247,Arquitecto de Soluciones,https://gis.aiesec.org/v2/opportunities/975247,open,open,GT,8,52,2019-06-10,2018-06-24,2019-06-23,BALBOA,2018-05-25,Engineering,Copa Airlines,1,1,1200
+974811,Data Quality,https://gis.aiesec.org/v2/opportunities/974811,open,realized,GT,4,77,2018-06-24,2018-06-04,2019-12-01,USMA,2018-05-24,Null,Panalpina,1,0,1200
+974606,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/974606,open,open,GT,114,77,2018-07-30,2018-06-03,2019-11-28,UTP,2018-05-23,Marketing,Janssen,1,1,1200
+972464,Marketing Trainee Inm & Derma,https://gis.aiesec.org/v2/opportunities/972464,open,approved,GT,55,52,2018-06-15,2018-06-18,2019-06-18,UTP,2018-05-16,Business Administration,NOVARTIS,1,0,1000
+972382,Data Report Specialist,https://gis.aiesec.org/v2/opportunities/972382,open,matched,GT,39,23,2018-07-30,2018-06-24,2018-12-06,USMA,2018-05-15,Business Administration,Sanofi Aventis,1,0,1300
+972049,Inventory and Demand Planning support intern,https://gis.aiesec.org/v2/opportunities/972049,open,matched,GT,8,26,2018-06-29,2018-05-31,2018-11-29,USMA,2018-05-14,Business Administration,HILTI,1,0,1400
+971282,Analista de Inteligencia Comercial,https://gis.aiesec.org/v2/opportunities/971282,removed,removed,GT,34,52,2018-05-31,2018-06-11,2019-06-10,BALBOA,2018-05-11,Null,Copa Airlines,1,1,1200
+971138,Operations Analyst,https://gis.aiesec.org/v2/opportunities/971138,removed,removed,GT,29,25,2018-07-14,2018-06-15,2018-12-12,BALBOA,2018-05-11,Business Administration,Panamá,1,1,1200
+969704,Talent Acquisition Intern,https://gis.aiesec.org/v2/opportunities/969704,open,open,GT,88,26,2018-06-25,2018-06-01,2018-12-01,USMA,2018-05-09,Business Administration,HILTI,1,1,1000
+968510,Communication Support - Banco de Alimentos Panamá - improve,https://gis.aiesec.org/v2/opportunities/968510,open,approved,GV,2,6,2018-09-24,2018-10-09,2018-11-20,UTP,2018-05-06,Null,Panamá,1,0,Null
+968505,Communication Support - Banco de Alimentos Panamá - Improve,https://gis.aiesec.org/v2/opportunities/968505,open,approved,GV,2,6,2018-08-14,2018-08-24,2018-10-05,UTP,2018-05-06,Null,Panamá,1,0,Null
+967681,Talent Acquisition - Recruiter,https://gis.aiesec.org/v2/opportunities/967681,open,unmatched,GT,122,26,2018-06-04,2018-06-01,2018-12-01,UTP,2018-05-04,Null,Philips Latin America,1,1,1400
+967083,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/967083,open,realized,GT,11,26,2018-06-29,2018-05-01,2018-11-02,UTP,2018-05-02,Marketing,Janssen,1,0,1200
+966997,Finance assistant,https://gis.aiesec.org/v2/opportunities/966997,draft,draft,GT,4,34,2018-07-16,2018-05-01,2018-12-30,UTP,2018-05-02,Business Administration,Janssen,1,0,1200
+964830,Supply Chain Intern,https://gis.aiesec.org/v2/opportunities/964830,open,open,GT,91,27,2018-06-22,2018-06-05,2018-12-15,UTP,2018-04-28,Null,Philips Lighting,1,1,1200
+964084,Community Research Manager,https://gis.aiesec.org/v2/opportunities/964084,open,unmatched,GE,7,8,2018-05-30,2018-06-18,2018-08-18,USMA,2018-04-27,Other,Universo Selva,1,1,0
+963347,FfDo Intern (Food por Development),https://gis.aiesec.org/v2/opportunities/963347,open,unmatched,GT,25,13,2018-05-01,2018-05-11,2018-08-10,BALBOA,2018-04-25,Null,TETRAPAK,1,1,1400
+960473,Customer Service,https://gis.aiesec.org/v2/opportunities/960473,open,open,GT,65,76,2018-06-24,2018-04-28,2019-10-15,USMA,2018-04-22,Business Administration,Panalpina,1,1,1000
+959347,Controlling,https://gis.aiesec.org/v2/opportunities/959347,open,approved,GT,94,6,2018-07-16,2018-07-15,2018-08-30,USMA,2018-04-20,Business Administration,Sanofi Aventis,1,0,1300
+957793,Financial Analysis,https://gis.aiesec.org/v2/opportunities/957793,open,approved,GT,127,76,2018-07-17,2018-05-15,2019-11-01,UTP,2018-04-18,Null,DELL Panama- S.A.,1,0,1200
+957442,Analista de información comercial,https://gis.aiesec.org/v2/opportunities/957442,open,matched,GT,166,50,2018-05-25,2018-05-28,2019-05-19,BALBOA,2018-04-18,Null,Carvajal,1,0,1400
+957023,Product Marketing Ops,https://gis.aiesec.org/v2/opportunities/957023,open,realized,GT,134,77,2018-07-14,2018-06-10,2019-12-05,UTP,2018-04-17,Business Administration,DELL Panama- S.A.,1,0,1200
+956681,Americas NPS PM,https://gis.aiesec.org/v2/opportunities/956681,open,approved,GT,106,49,2018-05-22,2018-05-29,2019-05-13,USMA,2018-04-17,Null,G4S,1,0,1500
+955748,Accouting Assistant,https://gis.aiesec.org/v2/opportunities/955748,open,realized,GT,94,52,2018-05-04,2018-05-07,2019-05-06,UTP,2018-04-16,Null,Robert Bosch Panama,1,0,1100
+955458,Digital Marketing Manager  - IMPROVE Project,https://gis.aiesec.org/v2/opportunities/955458,open,open,GV,4,6,2018-07-12,2018-07-13,2018-08-24,UP (University of Panama),2018-04-16,Null,Panama City,1,1,Null
+954754,External Relations Manager- IMPROVE Project,https://gis.aiesec.org/v2/opportunities/954754,open,open,GV,5,6,2018-06-30,2018-07-15,2018-08-26,UP (University of Panama),2018-04-14,Null,AIESEC en UP - Panama,1,1,Null
+953347,graphic design- IMPROVE,https://gis.aiesec.org/v2/opportunities/953347,open,realized,GV,3,6,2018-05-28,2018-06-05,2018-07-17,UP (University of Panama),2018-04-12,Null,Panama,1,0,Null
+948080,Marketing Communication Intern,https://gis.aiesec.org/v2/opportunities/948080,open,realized,GT,16,26,2018-05-31,2018-04-11,2018-10-11,USMA,2018-04-07,Null,HILTI,1,0,1300
+947096,External Relations - F. Palabra y Poder - Improve Project,https://gis.aiesec.org/v2/opportunities/947096,removed,removed,GV,3,6,2018-04-22,2018-04-21,2018-06-02,UTP,2018-04-06,Null,Panama,1,1,Null
+945085,Human Resources,https://gis.aiesec.org/v2/opportunities/945085,open,realized,GT,92,77,2018-05-31,2018-05-21,2019-11-15,UTP,2018-04-03,Null,DELL Panama- S.A.,1,0,1200
+939407,IMPULSE - GIRLS INNOVA,https://gis.aiesec.org/v2/opportunities/939407,open,open,GV,12,6,2018-06-25,2018-06-30,2018-08-11,Chiriqui,2018-03-28,Null,Asociacion de Muchachas Guias,1,1,Null
+939305,IMPULSE - I LEARN ENGLISH,https://gis.aiesec.org/v2/opportunities/939305,open,open,GV,5,6,2018-06-25,2018-06-30,2018-08-11,Chiriqui,2018-03-28,Null,Asociacion de Muchachas Guias,1,1,Null
+934706,Financial Planning Intern,https://gis.aiesec.org/v2/opportunities/934706,open,unmatched,GT,163,45,2018-05-17,2018-05-23,2019-04-03,UTP,2018-03-23,Null,MSD Central America & The Caribbean,1,1,1000
+933590,Process Analyst Project,https://gis.aiesec.org/v2/opportunities/933590,open,realized,GT,7,20,2018-03-30,2018-03-26,2018-08-17,USMA,2018-03-23,Null,TELEFONICA MOVILES PANAMA- S.A.,1,0,1000
+933494,Marketing Trainee CAC,https://gis.aiesec.org/v2/opportunities/933494,draft,draft,GT,1,28,2018-03-31,2018-03-27,2018-10-11,UTP,2018-03-22,Null,NOVARTIS,1,0,1400
+932156,Finances IMPROVE,https://gis.aiesec.org/v2/opportunities/932156,open,realized,GV,8,6,2018-06-03,2018-06-11,2018-07-23,UP (University of Panama),2018-03-21,Null,Fundación Educación Vial,1,0,Null
+931347,Digital Marketing - IMPROVE,https://gis.aiesec.org/v2/opportunities/931347,open,realized,GV,1,6,2018-06-03,2018-06-11,2018-07-23,UP (University of Panama),2018-03-21,Null,Fundación Educación Vial,1,0,Null
+926943,AviFauna- IMPROVE,https://gis.aiesec.org/v2/opportunities/926943,open,unmatched,GV,8,6,2018-06-10,2018-06-18,2018-07-30,UP (University of Panama),2018-03-17,Null,AviFauna,1,1,Null
+926942,CAMORUCO,https://gis.aiesec.org/v2/opportunities/926942,open,unmatched,GV,2,6,2018-06-10,2018-06-18,2018-07-30,UP (University of Panama),2018-03-17,Null,AviFauna,2,2,Null
+925631,IMPROVE - Digital marketing and advertising,https://gis.aiesec.org/v2/opportunities/925631,open,open,GV,14,6,2018-06-29,2018-07-13,2018-08-28,Chiriqui,2018-03-16,Null,Fundacion Dios es Fiel,2,1,Null
+925624,IMPULSE - TRAINING AND ADVISING HUMAN RIGHTS,https://gis.aiesec.org/v2/opportunities/925624,open,open,GV,15,6,2018-06-29,2018-08-09,2018-09-20,Chiriqui,2018-03-16,Null,Fundacion Dios es Fiel,2,1,Null
+924099,Financial Planning Analyst,https://gis.aiesec.org/v2/opportunities/924099,open,unmatched,GT,202,26,2018-05-16,2018-05-16,2018-11-15,USMA,2018-03-14,Null,QUALA,1,1,1200
+923538,TECHO,https://gis.aiesec.org/v2/opportunities/923538,open,approved,GV,6,6,2018-06-23,2018-07-02,2018-08-13,UP (University of Panama),2018-03-13,Null,TECHO PANAMA,1,0,Null
+923425,Client Merchandiser analyst,https://gis.aiesec.org/v2/opportunities/923425,open,realized,GT,116,77,2018-06-30,2018-04-23,2019-10-18,UTP,2018-03-13,Null,DELL Panama- S.A.,1,0,1200
+922790,Project --ANALYST BUSINESS ADMINISTRATION,https://gis.aiesec.org/v2/opportunities/922790,open,realized,GT,18,27,2018-03-17,2018-03-20,2018-09-25,USMA,2018-03-12,Null,TELEFONICA MOVILES PANAMA- S.A.,1,0,1000
+922027,Internal Control Analyst,https://gis.aiesec.org/v2/opportunities/922027,open,open,GT,237,73,2018-07-17,2018-05-15,2019-10-11,USMA,2018-03-12,Null,Sanofi Aventis,2,2,1300
+921617,Digital marketing Panamá para niños- improve project,https://gis.aiesec.org/v2/opportunities/921617,open,open,GV,10,6,2018-06-30,2018-07-15,2018-08-26,UTP,2018-03-11,Null,Panama,2,0,Null
+919914,Ethics and Business Integrity,https://gis.aiesec.org/v2/opportunities/919914,open,realized,GT,67,77,2018-05-31,2018-04-30,2019-10-25,USMA,2018-03-10,Null,Sanofi Aventis,1,0,1300
+919611,Supply Planning,https://gis.aiesec.org/v2/opportunities/919611,open,realized,GT,36,25,2018-04-30,2018-04-02,2018-09-28,USMA,2018-03-09,Null,Sanofi Aventis,1,0,1300
+918893,Jungle Growth Investigator,https://gis.aiesec.org/v2/opportunities/918893,open,unmatched,GE,9,9,2018-05-30,2018-06-05,2018-08-07,USMA,2018-03-08,Other,Universo Selva,1,1,0
+918868,Sustainability Research Director,https://gis.aiesec.org/v2/opportunities/918868,open,unmatched,GE,21,9,2018-05-30,2018-06-06,2018-08-08,USMA,2018-03-08,Business Administration,Universo Selva,1,1,0
+918728,Graphic Art Design,https://gis.aiesec.org/v2/opportunities/918728,draft,draft,GE,0,8,2018-07-20,2018-08-05,2018-10-06,USMA,2018-03-08,Null,Universo Selva,1,1,0
+913101,Soporte Administrativo y Financiero,https://gis.aiesec.org/v2/opportunities/913101,open,unmatched,GT,226,22,2018-05-15,2018-05-29,2018-11-05,USMA,2018-03-02,Null,Fresenius Medical Care,1,1,1200
+913088,Asistencia de Gerencia,https://gis.aiesec.org/v2/opportunities/913088,open,unmatched,GT,165,23,2018-04-19,2018-04-23,2018-10-01,USMA,2018-03-02,Null,Fresenius Medical Care,1,1,1200
+912314,Comprehensive Planning Assistant,https://gis.aiesec.org/v2/opportunities/912314,removed,removed,GT,258,26,2018-05-31,2018-05-15,2018-11-13,USMA,2018-03-01,Null,Belcorp,1,1,1400
+911988,Marketing trainee - RDT,https://gis.aiesec.org/v2/opportunities/911988,open,realized,GT,108,52,2018-05-10,2018-04-02,2019-04-01,UTP,2018-03-01,Null,NOVARTIS FARMACEUTICA,1,0,1200
+911796,IMPROVE - Digital Marketing,https://gis.aiesec.org/v2/opportunities/911796,open,realized,GV,18,7,2018-06-16,2018-06-15,2018-08-06,Chiriqui,2018-03-01,Null,Asociación Nueva Vida,1,0,Null
+911633,External Relations - F. Palabra y Poder - Improve Project,https://gis.aiesec.org/v2/opportunities/911633,open,unmatched,GV,11,6,2018-05-26,2018-06-09,2018-07-21,UTP,2018-02-28,Null,Panama,2,0,Null
+911564,Digital Marketing - F. Palabra y Poder - Improve Project,https://gis.aiesec.org/v2/opportunities/911564,open,realized,GV,3,6,2018-05-25,2018-06-08,2018-07-20,UTP,2018-02-28,Null,Panama,1,0,Null
+911551,Analista de Mercado,https://gis.aiesec.org/v2/opportunities/911551,open,realized,GT,84,26,2018-03-30,2018-04-09,2018-10-09,UTP,2018-02-28,Null,JCDecaux Panamá,1,0,1000
+911506,Fundación Palabra y Poder - Impulse Project,https://gis.aiesec.org/v2/opportunities/911506,open,unmatched,GV,13,6,2018-05-31,2018-06-08,2018-07-20,UTP,2018-02-28,Null,Panama,8,2,Null
+910843,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/910843,open,open,GT,133,73,2018-07-17,2018-05-08,2019-10-04,UTP,2018-02-27,Null,DELL Panama- S.A.,3,1,1200
+907499,Datacenter Solutions Sales Assistant,https://gis.aiesec.org/v2/opportunities/907499,open,open,GT,82,69,2018-07-17,2018-05-04,2019-08-30,UTP,2018-02-21,Null,DELL Panama- S.A.,4,3,1200
+906452,Channel Marketing Analyst,https://gis.aiesec.org/v2/opportunities/906452,open,realized,GT,36,77,2018-04-30,2018-04-09,2019-10-04,UTP,2018-02-20,Null,DELL Panama- S.A.,1,0,1200
+906232,Asuntos Regulatorios DRA,https://gis.aiesec.org/v2/opportunities/906232,open,realized,GT,37,74,2018-03-27,2018-03-27,2019-08-31,USMA,2018-02-19,Null,Fresenius Medical Care,1,0,1500
+905027,Marketing and communication - IMPROVE,https://gis.aiesec.org/v2/opportunities/905027,open,realized,GV,11,6,2018-06-04,2018-06-18,2018-07-30,UP (University of Panama),2018-02-17,Null,FUNSINCOPA (Fundación Sinfonica de Panamá),1,0,Null
+904980,Fundraising - IMPROVE,https://gis.aiesec.org/v2/opportunities/904980,open,unmatched,GV,4,6,2018-04-21,2018-04-30,2018-06-11,UP (University of Panama),2018-02-17,Null,FUNSINCOPA (Fundación Sinfonica de Panamá),1,1,Null
+904960,Digital Marketing  - Improve Project,https://gis.aiesec.org/v2/opportunities/904960,open,approved,GV,10,6,2018-07-01,2018-07-14,2018-08-25,UTP,2018-02-17,Null,Pro Niños del Darién,1,0,Null
+904935,Event Management -IMPROVE,https://gis.aiesec.org/v2/opportunities/904935,open,unmatched,GV,6,6,2018-06-03,2018-06-18,2018-07-30,UP (University of Panama),2018-02-16,Null,FUNSINCOPA (Fundación Sinfonica de Panamá),1,1,Null
+904915,English Professor C. Educativo Supérate - Impulse Project,https://gis.aiesec.org/v2/opportunities/904915,open,unmatched,GV,9,6,2018-05-28,2018-06-09,2018-07-21,UTP,2018-02-16,Null,Fundación Alberto Motta,2,1,Null
+904371,Webpage design and development -,https://gis.aiesec.org/v2/opportunities/904371,open,unmatched,GV,5,6,2018-04-21,2018-04-30,2018-06-11,UP (University of Panama),2018-02-15,Null,FUNSINCOPA (Fundación Sinfonica de Panamá),1,1,Null
+903948,Administrative Assistant - Improve Projetc,https://gis.aiesec.org/v2/opportunities/903948,removed,removed,GV,11,7,2018-03-31,2018-04-02,2018-05-26,UTP,2018-02-15,Null,Panama,2,2,Null
+903656,Process Analyst Project,https://gis.aiesec.org/v2/opportunities/903656,open,unmatched,GT,10,25,2018-02-28,2018-02-15,2018-08-15,USMA,2018-02-14,Null,TELEFONICA MOVILES PANAMA- S.A.,1,1,1000
+903643,Inventory and Demand Planning support intern,https://gis.aiesec.org/v2/opportunities/903643,open,unmatched,GT,137,26,2018-05-17,2018-05-01,2018-11-01,USMA,2018-02-14,Null,HILTI,1,1,1000
+903506,Digital Marketing IPANDETEC - Improve Project,https://gis.aiesec.org/v2/opportunities/903506,open,matched,GV,15,6,2018-06-10,2018-06-18,2018-07-30,UTP,2018-02-14,Null,Panamá,4,0,Null
+901283,Internal Communications Specialist,https://gis.aiesec.org/v2/opportunities/901283,open,realized,GT,234,77,2018-04-30,2018-04-01,2019-09-27,BALBOA,2018-02-07,Null,Cervecería Nacional/SabMiller,1,0,1200
+900965,Controlling Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/900965,open,realized,GT,277,77,2018-07-15,2018-06-11,2019-12-06,USMA,2018-02-06,Business Administration,Sanofi Aventis,1,0,1300
+900963,ORO PROJECT ADMIN,https://gis.aiesec.org/v2/opportunities/900963,draft,draft,GT,86,39,2018-03-14,2018-03-26,2018-12-26,USMA,2018-02-06,Null,HILTI,2,0,1100
+900930,Marketing Trainee,https://gis.aiesec.org/v2/opportunities/900930,draft,draft,GT,139,77,2018-02-28,2018-03-15,2019-09-11,UTP,2018-02-06,Null,NOVARTIS,1,0,1200
+900924,Talent Acquisition Analyst,https://gis.aiesec.org/v2/opportunities/900924,open,realized,GT,38,77,2018-03-31,2018-03-26,2019-09-20,UTP,2018-02-06,Null,DELL Panama- S.A.,1,0,1200
+899185,Accounts Payable Intern,https://gis.aiesec.org/v2/opportunities/899185,open,realized,GT,71,13,2018-05-10,2018-03-26,2018-06-26,UTP,2018-02-02,Null,Adidas Latin America,1,0,1200
+898845,HR Intern (Recruitment),https://gis.aiesec.org/v2/opportunities/898845,open,unmatched,GT,103,26,2018-02-28,2018-03-01,2018-09-01,USMA,2018-02-02,Null,HILTI,1,1,1300
+897190,Integration Business Analyst,https://gis.aiesec.org/v2/opportunities/897190,open,matched,GT,85,20,2018-03-09,2018-03-16,2018-08-06,UTP,2018-01-24,Null,JCDecaux Panamá,1,0,1000
+897031,Product/Brand Management Rx,https://gis.aiesec.org/v2/opportunities/897031,draft,draft,GT,52,77,2018-01-31,2018-02-19,2019-08-16,UTP,2018-01-23,Null,Glaxo Smith Kline,1,0,1200
+897030,Diseñador Gráfico,https://gis.aiesec.org/v2/opportunities/897030,open,unmatched,GT,65,22,2018-05-22,2018-05-29,2018-11-05,UTP,2018-01-23,Null,JCDecaux Panamá,1,1,1000
+896827,dg,https://gis.aiesec.org/v2/opportunities/896827,draft,draft,GT,0,25,2018-01-31,2018-02-01,2018-08-01,UTP,2018-01-22,Null,JCDecaux Panamá,1,1,Null
+896811,Graphic Designer,https://gis.aiesec.org/v2/opportunities/896811,open,realized,GT,6,25,2018-01-31,2018-02-12,2018-08-10,UTP,2018-01-22,Null,JCDecaux Panamá,1,0,1000
+896458,Marketing and Graphic Design Intern,https://gis.aiesec.org/v2/opportunities/896458,open,realized,GT,82,25,2018-02-15,2018-02-15,2018-08-15,USMA,2018-01-20,Null,HILTI,1,0,1000
+896192,Financial Analysis Sr. Analyst,https://gis.aiesec.org/v2/opportunities/896192,draft,draft,GT,152,77,2018-04-30,2018-02-19,2019-08-16,UTP,2018-01-18,Null,DELL Panama- S.A.,1,0,1200
+896027,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/896027,open,realized,GT,312,46,2018-03-22,2018-03-29,2019-02-14,UTP,2018-01-17,Null,Maersk Line,1,0,1200
+895673,Marketing Trainnee,https://gis.aiesec.org/v2/opportunities/895673,open,realized,GT,116,74,2018-03-28,2018-04-01,2019-09-06,UTP,2018-01-16,Null,NOVARTIS FARMACEUTICA,1,0,1200
+894360,Project Catalyst,https://gis.aiesec.org/v2/opportunities/894360,open,realized,GE,13,9,2018-05-31,2018-06-02,2018-08-05,USMA,2018-01-05,Null,Fundación Ideas Maestras,1,0,100
+894029,Business Development Intern LAN,https://gis.aiesec.org/v2/opportunities/894029,open,unmatched,GT,173,47,2018-01-24,2018-02-02,2018-12-31,USMA,2018-01-03,Null,syngenta,1,1,1500
+891119,English Instructor and Coordinator,https://gis.aiesec.org/v2/opportunities/891119,draft,draft,GT,97,77,2018-03-31,2018-04-16,2019-10-11,UTP,2017-12-16,Null,DELL Panama- S.A.,1,0,1200
+891101,Portuguese Instructor and Coordinator,https://gis.aiesec.org/v2/opportunities/891101,draft,draft,GT,115,77,2018-03-31,2018-04-16,2019-10-11,UTP,2017-12-15,Null,DELL Panama- S.A.,1,0,1200
+890524,Compensation and Benefits Analyst,https://gis.aiesec.org/v2/opportunities/890524,draft,draft,GT,76,77,2018-01-31,2018-03-26,2019-09-20,UTP,2017-12-13,Null,DELL Panama- S.A.,1,1,1200
+888503,Business Excellence Analyst,https://gis.aiesec.org/v2/opportunities/888503,open,realized,GT,161,51,2018-01-31,2018-01-08,2019-01-04,USMA,2017-12-05,Null,Sanofi Aventis,1,0,1300
+888247,Executive AssistanT / HR Assistant,https://gis.aiesec.org/v2/opportunities/888247,draft,draft,GT,111,26,2018-01-31,2018-02-08,2018-08-09,UTP,2017-12-04,Null,Fresenius Medical Care,1,1,1300
+887623,Pricing & Product Marketing,https://gis.aiesec.org/v2/opportunities/887623,draft,draft,GT,4,77,2017-12-31,2018-01-08,2019-07-05,UTP,2017-12-01,Null,DELL Panama- S.A.,1,0,1200
+887312,Product Marketing Analyst,https://gis.aiesec.org/v2/opportunities/887312,draft,draft,GT,175,77,2018-02-01,2018-01-15,2019-07-12,UTP,2017-11-30,Null,DELL Panama- S.A.,1,0,1200
+883809,Project Management Operations Intern,https://gis.aiesec.org/v2/opportunities/883809,open,realized,GT,200,52,2017-12-31,2018-01-16,2019-01-16,USMA,2017-11-20,Null,HILTI,1,0,1200
+883073,Change Management & Communications assistant,https://gis.aiesec.org/v2/opportunities/883073,open,realized,GT,87,26,2017-12-15,2018-02-05,2018-08-10,USMA,2017-11-18,Null,Sanofi Aventis,1,0,1300
+882786,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/882786,draft,draft,GT,96,48,2018-04-28,2018-01-22,2018-12-28,UTP,2017-11-17,Null,Janssen,1,0,1200
+882508,Improve Panama - Graphic Designer,https://gis.aiesec.org/v2/opportunities/882508,draft,draft,GE,3,13,2018-07-31,2018-06-04,2018-09-09,USMA,2017-11-16,Null,Canal de Empresarias,1,0,0
+882505,Improve Panama - IT,https://gis.aiesec.org/v2/opportunities/882505,draft,draft,GE,3,13,2019-07-31,2018-06-03,2018-09-08,USMA,2017-11-16,Null,Canal de Empresarias,1,0,0
+882497,Improve Panama - Marketing,https://gis.aiesec.org/v2/opportunities/882497,draft,draft,GE,2,14,2019-07-31,2018-06-03,2018-09-09,USMA,2017-11-16,Null,Canal de Empresarias,1,0,0
+882441,Improve Panama - Sales,https://gis.aiesec.org/v2/opportunities/882441,draft,draft,GE,1,14,2019-07-31,2018-06-03,2018-09-09,USMA,2017-11-16,Null,Canal de Empresarias,1,0,0
+882436,Improve Panama - Customer Service,https://gis.aiesec.org/v2/opportunities/882436,draft,draft,GE,1,14,2019-07-31,2018-06-03,2018-09-09,USMA,2017-11-16,Null,Canal de Empresarias,1,0,0
+880409,Customer Marketing Support,https://gis.aiesec.org/v2/opportunities/880409,open,realized,GT,252,48,2018-03-15,2018-01-15,2018-12-18,USMA,2017-11-09,Null,MARS Panama,1,0,1250
+880272,Treasury analyst,https://gis.aiesec.org/v2/opportunities/880272,draft,draft,GT,165,26,2018-03-31,2018-03-16,2018-09-14,UTP,2017-11-09,Null,NESTLE,1,0,1200
+880196,HR Intern,https://gis.aiesec.org/v2/opportunities/880196,open,realized,GT,94,25,2018-01-20,2018-02-01,2018-08-01,USMA,2017-11-09,Null,HILTI,1,0,1300
+879915,Programmer C + + (3D),https://gis.aiesec.org/v2/opportunities/879915,open,open,GE,36,14,2019-05-31,2018-06-03,2018-09-09,USMA,2017-11-08,Null,Hauzd,1,1,0
+877002,Store Manager,https://gis.aiesec.org/v2/opportunities/877002,draft,draft,GT,186,48,2018-02-19,2018-02-26,2019-02-01,USMA,2017-10-27,Null,INDITEX,1,1,1200
+876098,Software Development Intern,https://gis.aiesec.org/v2/opportunities/876098,draft,draft,GE,51,8,2018-12-31,2019-01-07,2019-03-08,USMA,2017-10-24,Null,Wolftrip,1,1,0
+875022,Legal Assistant LATAM,https://gis.aiesec.org/v2/opportunities/875022,draft,draft,GT,57,77,2018-04-30,2018-04-23,2019-10-18,UTP,2017-10-20,Null,DELL Panama- S.A.,1,0,1200
+874768,Talent Acquisition Support,https://gis.aiesec.org/v2/opportunities/874768,removed,removed,GT,414,55,2018-03-31,2018-04-09,2019-05-03,USMA,2017-10-19,Null,Sanofi Aventis,1,1,1300
+874556,Especialista de Promociones,https://gis.aiesec.org/v2/opportunities/874556,draft,draft,GT,96,26,2018-02-28,2018-03-16,2018-09-15,UTP,2017-10-18,Null,NESTLE,1,0,1200
+873247,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/873247,open,unmatched,GT,205,52,2017-12-01,2017-12-01,2018-12-01,UTP,2017-10-12,Null,MSD Central America & The Caribbean,1,1,1000
+872431,Social Media and Public Relation Trainee,https://gis.aiesec.org/v2/opportunities/872431,open,unmatched,GE,66,14,2018-05-31,2018-06-03,2018-09-09,USMA,2017-10-10,Null,SL Estudio de Comunicación,2,2,0
+870149,Functioning Support,https://gis.aiesec.org/v2/opportunities/870149,open,completed,GV,5,6,2017-11-26,2017-12-04,2018-01-15,UTP,2017-09-29,Null,Fundación Ayudando  a Vivir,1,0,Null
+870137,Functioning Support- Second round,https://gis.aiesec.org/v2/opportunities/870137,open,unmatched,GV,6,6,2018-01-08,2018-01-15,2018-02-26,UTP,2017-09-29,Null,Fundación Ayudando  a Vivir,1,1,Null
+869986,English tutor for children- Second round,https://gis.aiesec.org/v2/opportunities/869986,open,matched,GV,6,6,2018-01-07,2018-01-15,2018-02-26,UTP,2017-09-29,Null,Fundación Ayudando  a Vivir,1,0,Null
+869984,English tutor for children,https://gis.aiesec.org/v2/opportunities/869984,open,matched,GV,2,6,2017-11-27,2017-12-04,2018-01-15,UTP,2017-09-29,Null,Fundación Ayudando  a Vivir,1,0,Null
+869944,Sales & Marketing Assistant,https://gis.aiesec.org/v2/opportunities/869944,open,realized,GT,166,52,2017-12-09,2018-01-15,2019-01-18,UTP,2017-09-28,Null,DELL Panama- S.A.,1,0,1200
+869917,Assistant of Selina,https://gis.aiesec.org/v2/opportunities/869917,draft,draft,GE,2,11,2017-12-31,2017-11-01,2018-01-19,USMA,2017-09-28,Null,Selina Hostels,1,0,Null
+869877,Marketing Support,https://gis.aiesec.org/v2/opportunities/869877,open,realized,GT,134,26,2017-10-31,2017-10-23,2018-04-27,USMA,2017-09-28,Null,Sanofi Aventis,1,0,1300
+869695,Public Relations,https://gis.aiesec.org/v2/opportunities/869695,draft,draft,GV,3,6,2018-01-07,2018-01-14,2018-02-25,UTP,2017-09-28,Null,Ayudando a vivir,1,0,Null
+869693,Screen Printing Management - Impulse Project,https://gis.aiesec.org/v2/opportunities/869693,open,unmatched,GV,3,6,2018-01-06,2018-01-14,2018-02-25,UTP,2017-09-28,Null,Ayudando a vivir,1,1,Null
+869179,Screen Printing Management - Impulse Project,https://gis.aiesec.org/v2/opportunities/869179,open,unmatched,GV,3,6,2017-11-26,2017-12-03,2018-01-14,UTP,2017-09-26,Null,Ayudando a vivir,1,1,Null
+869178,Art and Culture - Impulse Project,https://gis.aiesec.org/v2/opportunities/869178,open,unmatched,GV,16,6,2018-01-08,2018-01-13,2018-02-24,UTP,2017-09-26,Null,Fundación Olga Sinclair,3,3,Null
+869168,Break the Chain - Impulse Project,https://gis.aiesec.org/v2/opportunities/869168,draft,draft,GV,3,6,2018-01-10,2018-01-15,2018-02-26,UTP,2017-09-26,Null,Centro de apoyo a la mujer maltratada,2,2,Null
+869062,Financial Analyst,https://gis.aiesec.org/v2/opportunities/869062,draft,draft,GT,145,18,2017-11-30,2017-11-30,2018-04-06,UTP,2017-09-25,Null,DELL Panama- S.A.,1,1,1200
+868901,Dynamic Development Manager - Impulse Project,https://gis.aiesec.org/v2/opportunities/868901,open,unmatched,GV,6,6,2018-01-07,2018-01-14,2018-02-25,UTP,2017-09-24,Null,Centro de Alcance - Las 500,1,1,Null
+868434,Public Relations,https://gis.aiesec.org/v2/opportunities/868434,open,completed,GV,8,6,2017-12-01,2017-12-04,2018-01-15,UTP,2017-09-23,Null,Ayudando a vivir,1,0,Null
+868422,Technology for Children - Impulse Project,https://gis.aiesec.org/v2/opportunities/868422,open,realized,GV,2,6,2018-01-07,2018-01-14,2018-02-25,UTP,2017-09-23,Null,Centro de Alcance - Las 500,2,0,Null
+868392,Sales Support Assistant,https://gis.aiesec.org/v2/opportunities/868392,draft,draft,GT,423,72,2018-02-28,2018-02-19,2019-07-12,UTP,2017-09-22,Null,DELL Panama- S.A.,1,1,1200
+868357,Talent Adquisition,https://gis.aiesec.org/v2/opportunities/868357,open,unmatched,GT,190,46,2017-11-30,2017-11-30,2018-10-19,UTP,2017-09-22,Null,Janssen,1,1,1200
+868148,Social community education - IMPULSE project,https://gis.aiesec.org/v2/opportunities/868148,open,unmatched,GV,1,6,2018-01-08,2018-01-15,2018-02-26,UTP,2017-09-21,Null,MUVA,4,4,Null
+868083,Sales Assistant,https://gis.aiesec.org/v2/opportunities/868083,open,realized,GT,34,52,2017-09-30,2017-10-02,2018-10-05,UTP,2017-09-21,Null,DELL Panama- S.A.,1,0,1200
+867837,Project Manager- Improve Project (January 22th),https://gis.aiesec.org/v2/opportunities/867837,draft,draft,GV,14,6,2018-03-31,2018-01-22,2018-03-08,UP (University of Panama),2017-09-20,Null,AIESEC en UP - Panama,1,1,Null
+867712,Down's Syndrome Support Volunteer- IMPULSE Project,https://gis.aiesec.org/v2/opportunities/867712,open,unmatched,GV,5,6,2018-03-31,2018-01-22,2018-03-07,UP (University of Panama),2017-09-20,Null,AIESEC en UP - Panama,4,3,Null
+867571,Sales Support Assistant,https://gis.aiesec.org/v2/opportunities/867571,open,realized,GT,34,52,2017-10-10,2017-10-31,2018-10-31,UTP,2017-09-19,Null,DELL Panama- S.A.,1,0,1200
+867533,Desicion Support Specialist,https://gis.aiesec.org/v2/opportunities/867533,open,realized,GT,65,50,2017-10-09,2017-10-16,2018-10-02,UTP,2017-09-19,Null,NESTLE,1,0,1200
+867285,G4s Way of Selling PM,https://gis.aiesec.org/v2/opportunities/867285,open,realized,GT,72,52,2017-11-30,2017-12-19,2018-12-19,USMA,2017-09-18,Null,G4S Interativa Service,1,0,1200
+866549,Communications LATAM,https://gis.aiesec.org/v2/opportunities/866549,open,realized,GT,91,77,2017-11-30,2017-12-01,2019-05-30,USMA,2017-09-14,Null,Sanofi Aventis,1,0,1300
+866333,Marketing Specialist,https://gis.aiesec.org/v2/opportunities/866333,open,realized,GT,126,20,2017-10-23,2017-11-16,2018-04-06,UTP,2017-09-13,Null,NESTLE,1,0,1200
+866331,prueba,https://gis.aiesec.org/v2/opportunities/866331,draft,draft,GT,0,None,2017-09-23,Null,Null,USMA,2017-09-13,Null,DELL,1,1,Null
+866003,Supply Chain Intern,https://gis.aiesec.org/v2/opportunities/866003,draft,draft,GT,214,35,2017-10-08,2017-10-03,2018-06-09,UTP,2017-09-11,Null,NOVARTIS,1,0,1200
+865266,Financial Analysis Intern,https://gis.aiesec.org/v2/opportunities/865266,open,unmatched,GT,202,18,2017-11-30,2017-12-01,2018-04-07,UTP,2017-09-08,Null,DELL Panama- S.A.,1,1,1200
+865253,CULTURAL MANAGER - IMPULSE PROJECT,https://gis.aiesec.org/v2/opportunities/865253,open,unmatched,GV,16,6,2018-01-08,2018-01-15,2018-02-28,UTP,2017-09-08,Null,FANLYC,6,3,Null
+865227,HR Coordinator,https://gis.aiesec.org/v2/opportunities/865227,open,unmatched,GT,61,32,2017-11-30,2017-10-15,2018-05-30,UTP,2017-09-08,Null,Maersk Line,1,1,1500
+865108,Digital & Web Content Intern,https://gis.aiesec.org/v2/opportunities/865108,open,unmatched,GT,227,26,2018-03-31,2018-04-02,2018-10-02,USMA,2017-09-08,Null,HILTI,1,1,950
+865107,Trade Marketing Intern,https://gis.aiesec.org/v2/opportunities/865107,open,realized,GT,73,26,2017-09-30,2017-10-18,2018-04-18,USMA,2017-09-08,Null,HILTI,1,0,950
+864951,NOLA Trade Marketing Intern,https://gis.aiesec.org/v2/opportunities/864951,open,unmatched,GT,71,24,2017-09-22,2017-09-26,2018-03-17,UTP,2017-09-07,Null,DELL Panama- S.A.,1,1,1200
+864877,Accounting Assistant,https://gis.aiesec.org/v2/opportunities/864877,open,realized,GT,63,25,2017-09-30,2017-11-01,2018-05-01,UTP,2017-09-06,Null,Robert Bosch Panama,1,0,1100
+864446,nn,https://gis.aiesec.org/v2/opportunities/864446,draft,draft,GT,0,26,2017-09-12,2017-09-18,2018-03-19,UTP,2017-09-05,Null,BOSCH,1,1,1100
+864249,Accounting Assistant,https://gis.aiesec.org/v2/opportunities/864249,draft,draft,GT,0,None,Null,Null,Null,UTP,2017-09-04,Null,BOSCH,1,1,Null
+864076,Family Promoter Volunteer - IMPULSE Project,https://gis.aiesec.org/v2/opportunities/864076,open,unmatched,GV,12,6,2017-11-30,2017-12-12,2018-01-23,UP (University of Panama),2017-09-02,Null,AIESEC en UP - Panama,3,2,Null
+864070,External Relations Manager- IMPROVE Project (December 12th),https://gis.aiesec.org/v2/opportunities/864070,draft,draft,GV,5,6,2018-06-20,2018-07-11,2018-08-23,UP (University of Panama),2017-09-02,Null,AIESEC en UP - Panama,1,0,Null
+864012,Finance assistant,https://gis.aiesec.org/v2/opportunities/864012,open,realized,GT,102,26,2017-09-30,2017-10-02,2018-04-02,UTP,2017-09-02,Null,Janssen,1,0,1300
+863954,Accountability Assistant,https://gis.aiesec.org/v2/opportunities/863954,draft,draft,GT,73,39,2017-12-02,2017-10-02,2018-07-02,UTP,2017-09-01,Null,Janssen,1,1,1300
+863876,Talent Capacity Manager- Improve Project (December 12th),https://gis.aiesec.org/v2/opportunities/863876,open,completed,GV,3,6,2017-11-30,2017-12-12,2018-01-23,UP (University of Panama),2017-09-01,Null,AIESEC en UP - Panama,1,0,Null
+863840,Marketing Trainee Franquicia Oftalmologia - Retina,https://gis.aiesec.org/v2/opportunities/863840,open,unmatched,GT,82,49,2017-09-30,2017-10-01,2018-09-11,UTP,2017-09-01,Null,Novartis Caribe- S.A.,1,1,1000
+863799,Human Resources Leadership Development,https://gis.aiesec.org/v2/opportunities/863799,open,realized,GT,89,77,2017-09-15,2017-09-21,2019-03-20,USMA,2017-08-31,Null,Sanofi Aventis,1,0,1300
+863786,Legal assistant,https://gis.aiesec.org/v2/opportunities/863786,open,unmatched,GT,42,45,2017-12-31,2017-11-20,2018-10-01,UTP,2017-08-31,Null,DELL Panama- S.A.,2,1,1200
+862131,Sales,https://gis.aiesec.org/v2/opportunities/862131,draft,draft,GE,13,17,2018-01-31,2017-10-01,2018-01-31,USMA,2017-08-20,Null,Selina Hostels,1,1,Null
+862008,Researcher Coordinator,https://gis.aiesec.org/v2/opportunities/862008,draft,draft,GE,13,17,2018-01-31,2017-10-01,2018-01-31,USMA,2017-08-18,Null,Selina Hostels,1,1,Null
+861907,Digital Marketing Manager- IMPROVE Project (January 22th),https://gis.aiesec.org/v2/opportunities/861907,open,unmatched,GV,13,6,2017-12-31,2018-01-22,2018-03-07,UP (University of Panama),2017-08-17,Null,AIESEC en UP - Panama,2,2,Null
+861900,Operation Travel Assistant,https://gis.aiesec.org/v2/opportunities/861900,draft,draft,GE,0,13,2017-12-31,2017-09-05,2017-12-05,USMA,2017-08-17,Null,Selina Hostels,1,1,Null
+861897,Gastronomic Practitioner,https://gis.aiesec.org/v2/opportunities/861897,open,unmatched,GE,2,17,2017-12-31,2017-10-01,2018-01-31,USMA,2017-08-17,Null,Selina Hostels,4,4,Null
+861896,Tours,https://gis.aiesec.org/v2/opportunities/861896,open,unmatched,GE,9,17,2017-12-31,2017-10-01,2018-01-31,USMA,2017-08-17,Null,Selina Hostels,4,4,Null
+861895,Marketing & Events,https://gis.aiesec.org/v2/opportunities/861895,draft,draft,GE,16,17,2017-12-31,2017-10-01,2018-01-31,USMA,2017-08-17,Null,Selina Hostels,4,4,Null
+861893,Front Office,https://gis.aiesec.org/v2/opportunities/861893,open,unmatched,GE,9,17,2017-12-31,2017-10-01,2018-01-31,USMA,2017-08-17,Null,Selina Hostels,4,4,Null
+861882,F&B,https://gis.aiesec.org/v2/opportunities/861882,open,unmatched,GE,5,17,2017-12-31,2017-10-01,2018-01-31,USMA,2017-08-17,Null,Selina Hostels,4,4,0
+861878,Talent Capacity Manager- Improve Project (January 22th),https://gis.aiesec.org/v2/opportunities/861878,draft,draft,GV,9,6,2018-03-31,2018-01-22,2018-03-07,UP (University of Panama),2017-08-17,Null,AIESEC en UP - Panama,2,0,Null
+861872,External Relations Manager- IMPROVE Project (January 22th),https://gis.aiesec.org/v2/opportunities/861872,open,unmatched,GV,6,6,2018-02-28,2018-01-22,2018-03-07,UP (University of Panama),2017-08-17,Null,AIESEC en UP - Panama,3,2,Null
+861809,Marketing Trainee August 2,https://gis.aiesec.org/v2/opportunities/861809,open,realized,GT,129,51,2017-09-22,2017-09-05,2018-09-01,UTP,2017-08-17,Null,Novartis Caribe- S.A.,1,0,1000
+861622,IT Coordinator,https://gis.aiesec.org/v2/opportunities/861622,open,unmatched,GT,60,26,2017-09-30,2017-10-01,2018-04-01,USMA,2017-08-16,Null,QUALA,1,1,1600
+861549,Graphic Designer,https://gis.aiesec.org/v2/opportunities/861549,draft,draft,GT,99,37,2018-02-14,2018-03-01,2018-11-15,USMA,2017-08-16,Null,Latam Digital Marketing,1,1,1000
+861496,Financial Planning Specialist,https://gis.aiesec.org/v2/opportunities/861496,open,unmatched,GT,215,26,2017-12-15,2018-01-08,2018-07-09,USMA,2017-08-15,Null,QUALA,1,1,1600
+861492,Marketing Trainee August,https://gis.aiesec.org/v2/opportunities/861492,draft,draft,GT,0,52,2017-09-15,2017-09-15,2018-09-14,UTP,2017-08-15,Null,NOVARTIS,1,1,Null
+861488,Financial Planning Analyst,https://gis.aiesec.org/v2/opportunities/861488,open,realized,GT,150,25,2017-12-15,2017-11-14,2018-05-13,USMA,2017-08-15,Null,QUALA,1,0,1200
+861402,Analista de Asuntos Regulatorios,https://gis.aiesec.org/v2/opportunities/861402,open,realized,GT,27,73,2017-10-31,2017-10-24,2019-03-25,UTP,2017-08-15,Null,Janssen,1,0,1200
+861400,Finance assistant,https://gis.aiesec.org/v2/opportunities/861400,open,realized,GT,86,52,2017-09-15,2017-09-19,2018-09-19,USMA,2017-08-15,Null,SANOFI AVENTIS,1,0,1300
+861341,Asistente de Dirección de Marketing,https://gis.aiesec.org/v2/opportunities/861341,open,realized,GT,25,52,2017-08-21,2017-08-16,2018-08-16,UTP,2017-08-14,Null,JCDECAUX,1,0,1000
+861020,Sales Assistant,https://gis.aiesec.org/v2/opportunities/861020,open,realized,GT,141,25,2017-09-13,2017-09-08,2018-03-08,UTP,2017-08-12,Null,DELL Panama- S.A.,1,0,1200
+860811,Project Manager- IMPROVE Project (January 8th),https://gis.aiesec.org/v2/opportunities/860811,open,unmatched,GV,12,6,2017-12-31,2018-01-08,2018-02-22,UP (University of Panama),2017-08-10,Null,AIESEC en UP - Panama,2,2,Null
+860787,Digital Marketing Manager- IMPROVE Project (January 8 th),https://gis.aiesec.org/v2/opportunities/860787,open,unmatched,GV,10,6,2017-12-31,2018-01-08,2018-02-21,UP (University of Panama),2017-08-10,Null,AIESEC en UP - Panama,3,3,Null
+860001,External Relations Manager- IMPROVE Project (January 8th),https://gis.aiesec.org/v2/opportunities/860001,draft,draft,GV,8,6,2017-12-31,2018-01-08,2018-02-21,UP (University of Panama),2017-08-03,Null,AIESEC en UP - Panama,3,2,Null
+859997,Analista de Finanza,https://gis.aiesec.org/v2/opportunities/859997,open,realized,GT,37,52,2017-08-31,2017-08-16,2018-08-15,UTP,2017-08-03,Null,Robert Bosch Panama,1,0,1100
+859277,Medical Trainee August,https://gis.aiesec.org/v2/opportunities/859277,draft,draft,GT,16,27,2017-08-16,2017-09-12,2018-03-21,UTP,2017-07-28,Null,NOVARTIS,1,0,1000
+859136,amigos globales,https://gis.aiesec.org/v2/opportunities/859136,draft,draft,GV,0,None,2017-11-30,Null,Null,Virtual Expansion Panama,2017-07-27,Null,UTP,7,7,Null
+859032,Financial analyst,https://gis.aiesec.org/v2/opportunities/859032,draft,draft,GT,45,52,2017-07-31,2017-08-07,2018-08-10,UTP,2017-07-26,Null,BOSCH,1,1,1100
+858750,Online Marketing Advisor,https://gis.aiesec.org/v2/opportunities/858750,open,realized,GT,193,51,2017-10-01,2017-10-23,2018-10-17,UTP,2017-07-25,Null,DELL,1,0,1200
+856900,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/856900,draft,draft,GT,1,52,2017-07-16,2017-07-27,2018-07-27,UTP,2017-07-13,Null,Janssen,1,0,1200
+856616,Integration Business Analyst,https://gis.aiesec.org/v2/opportunities/856616,open,realized,GT,138,26,2017-08-14,2017-08-21,2018-02-21,UTP,2017-07-11,Null,JCDECAUX,1,0,1000
+856599,Integration Business Analyst.,https://gis.aiesec.org/v2/opportunities/856599,draft,draft,GT,0,26,Null,2017-08-21,2018-02-21,UTP,2017-07-11,Null,JCDECAUX,1,1,Null
+856565,Accounting sr. analyst,https://gis.aiesec.org/v2/opportunities/856565,open,realized,GT,27,52,2017-08-05,2017-07-31,2018-08-04,UTP,2017-07-11,Null,DELL,1,0,1200
+856564,Accounting Sr.Analyst,https://gis.aiesec.org/v2/opportunities/856564,draft,draft,GT,0,52,2017-08-05,2017-07-31,2018-08-04,UTP,2017-07-11,Null,DELL,1,1,Null
+856176,Sales Assistant,https://gis.aiesec.org/v2/opportunities/856176,open,unmatched,GT,406,52,2017-09-12,2017-09-30,2018-09-30,UTP,2017-07-07,Null,DELL,2,1,1200
+855832,Graphic designer,https://gis.aiesec.org/v2/opportunities/855832,open,realized,GT,42,26,2017-07-28,2017-07-24,2018-01-28,UTP,2017-07-04,Null,JCDECAUX,1,0,1000
+854468,Communications PAC,https://gis.aiesec.org/v2/opportunities/854468,draft,draft,GT,84,26,2017-07-31,2017-07-31,2018-02-03,USMA,2017-06-26,Null,SANOFI AVENTIS,1,0,1300
+853906,Proyect Management1,https://gis.aiesec.org/v2/opportunities/853906,open,realized,GT,17,70,2017-07-07,2017-06-26,2018-10-31,USMA,2017-06-21,Null,BIMBO Panama,1,0,1200
+853704,Fitness and Events Reebok Intern,https://gis.aiesec.org/v2/opportunities/853704,draft,draft,GT,260,20,2017-08-24,2017-09-09,2018-02-02,UTP,2017-06-19,Null,Adidas Latin America,1,0,Null
+853432,Fitness and Events Intern,https://gis.aiesec.org/v2/opportunities/853432,draft,draft,GT,0,20,2017-08-25,2017-09-09,2018-02-02,UTP,2017-06-16,Null,Adidas Latin America,1,1,1200
+852975,Consumer Experience Marketing Intern,https://gis.aiesec.org/v2/opportunities/852975,open,realized,GT,221,52,2017-07-31,2017-08-15,2018-08-15,UTP,2017-06-14,Null,Adidas Latin America,1,0,1200
+852765,Consumer Experience Marketing Intern,https://gis.aiesec.org/v2/opportunities/852765,draft,draft,GT,0,52,2017-07-25,2017-08-15,2018-08-15,UTP,2017-06-13,Null,Adidas Latin America,1,1,1200
+852573,Finance Planning, Reporting, and Compliance Intern,https://gis.aiesec.org/v2/opportunities/852573,open,realized,GT,90,52,2017-08-14,2017-09-12,2018-09-12,UTP,2017-06-12,Null,GSK Panama,1,0,1200
+852335,Procurement intern,https://gis.aiesec.org/v2/opportunities/852335,open,realized,GT,64,25,2017-06-30,2017-07-16,2018-01-10,UTP,2017-06-12,Null,MSD Central America & The Caribbean,1,0,1000
+851307,Purchasing Intern,https://gis.aiesec.org/v2/opportunities/851307,open,completed,GT,305,28,2017-07-12,2017-07-16,2018-02-01,UTP,2017-06-06,Null,Adidas Latin America,1,0,1200
+850326,Logistic Services Intern,https://gis.aiesec.org/v2/opportunities/850326,draft,draft,GT,0,None,2017-07-12,Null,Null,USMA,2017-06-01,Null,HILTI,1,1,Null
+850034,Talent Acquisition Intern,https://gis.aiesec.org/v2/opportunities/850034,open,realized,GT,155,21,2017-06-22,2017-07-01,2017-12-01,UTP,2017-05-31,Null,Adidas Latin America,1,0,1200
+849720,Communication Advisor,https://gis.aiesec.org/v2/opportunities/849720,open,unmatched,GT,421,56,2017-11-30,2017-12-01,2018-12-30,UTP,2017-05-29,Null,DELL,1,1,1200
+849718,Communication Advisor,https://gis.aiesec.org/v2/opportunities/849718,draft,draft,GT,0,52,2017-06-19,2017-06-19,2018-06-22,UTP,2017-05-29,Null,DELL,1,1,Null
+849686,Finance Assistant,https://gis.aiesec.org/v2/opportunities/849686,draft,draft,GT,265,52,2017-09-30,2017-10-01,2018-10-01,UTP,2017-05-29,Null,DELL SAS,1,1,1200
+849679,Finance May,https://gis.aiesec.org/v2/opportunities/849679,open,realized,GT,156,26,2017-06-07,2017-06-13,2017-12-15,UTP,2017-05-29,Null,Philips Latin America,1,0,1200
+849562,Supply Chian Trainee,https://gis.aiesec.org/v2/opportunities/849562,open,realized,GT,53,26,2017-06-05,2017-06-06,2017-12-08,UTP,2017-05-29,Null,Novartis,1,0,1000
+848529,Channel Marketing Intern,https://gis.aiesec.org/v2/opportunities/848529,open,realized,GT,107,52,2017-05-31,2017-05-29,2018-06-02,UTP,2017-05-23,Null,DELL,1,0,1200
+847940,Sales Support,https://gis.aiesec.org/v2/opportunities/847940,open,realized,GT,21,52,2017-05-25,2017-05-22,2018-05-26,UTP,2017-05-20,Null,DELL,1,0,1200
+847722,Sales Support,https://gis.aiesec.org/v2/opportunities/847722,open,realized,GT,274,55,2017-09-30,2017-10-01,2018-10-26,UTP,2017-05-19,Null,DELL Panama- S.A.,1,0,1200
+847273,Supply Chain,https://gis.aiesec.org/v2/opportunities/847273,draft,draft,GT,0,47,2017-05-31,2017-06-05,2018-04-30,UTP,2017-05-17,Null,Novartis Pharma Logistic- Inc.,1,1,1000
+845532,Medical Operations Support,https://gis.aiesec.org/v2/opportunities/845532,draft,draft,GT,45,50,2017-06-21,2017-06-19,2018-06-09,USMA,2017-05-09,Null,Sanofi Aventis,1,0,1300
+844641,Intern Marketing Operations adidas - GTM Process,https://gis.aiesec.org/v2/opportunities/844641,draft,draft,GT,146,46,2018-06-15,2017-05-15,2018-04-07,UTP,2017-05-06,Null,Adidas Latin America,1,0,1200
+844622,Supply Chian Trainee,https://gis.aiesec.org/v2/opportunities/844622,open,unmatched,GT,140,52,2017-05-20,2017-05-30,2018-05-30,UTP,2017-05-06,Null,Novartis Pharma,1,1,1200
+844299,NOLA Trade Marketing Intern,https://gis.aiesec.org/v2/opportunities/844299,open,realized,GT,69,52,2017-05-24,2017-05-29,2018-06-01,UTP,2017-05-05,Null,DELL,1,0,1200
+843711,Sales Support,https://gis.aiesec.org/v2/opportunities/843711,removed,removed,GT,0,77,2017-05-21,2017-05-29,2018-11-24,UTP,2017-05-03,Null,Dell,1,1,1200
+842204,Wholesale Marketing Intern,https://gis.aiesec.org/v2/opportunities/842204,open,realized,GT,240,52,2017-06-22,2017-06-19,2018-06-19,UTP,2017-04-28,Null,Adidas Latin America,1,0,1200
+840221,Improve Panama - Accounting,https://gis.aiesec.org/v2/opportunities/840221,open,unmatched,GE,7,15,2017-05-09,2017-06-12,2017-09-30,USMA,2017-04-21,Null,Selina Hostels,2,2,Null
+840213,Improve Panama - Customer Service,https://gis.aiesec.org/v2/opportunities/840213,open,unmatched,GE,7,15,2017-05-09,2017-06-12,2017-09-30,USMA,2017-04-21,Null,Tutorez,1,1,Null
+840180,Finance Planning & Reporting Assistant,https://gis.aiesec.org/v2/opportunities/840180,open,realized,GT,326,52,2017-09-01,2017-09-11,2018-09-14,USMA,2017-04-20,Null,Sanofi Aventis,1,0,1300
+839984,Business Development Intern,https://gis.aiesec.org/v2/opportunities/839984,open,realized,GT,67,7,2017-06-15,2017-05-23,2017-07-13,UTP,2017-04-20,Null,Adidas Latin America,1,0,1200
+839724,Improve Panama - Marketing,https://gis.aiesec.org/v2/opportunities/839724,draft,draft,GE,0,11,2017-05-09,2017-06-12,2017-08-31,USMA,2017-04-19,Null,Canal de Empresarias,1,1,Null
+839723,Supply Chain Data/Monitor Support,https://gis.aiesec.org/v2/opportunities/839723,open,realized,GT,118,77,2017-07-01,2017-07-03,2018-12-29,USMA,2017-04-19,Null,Sanofi Aventis,1,0,1300
+838839,HR Analyst,https://gis.aiesec.org/v2/opportunities/838839,open,realized,GT,40,26,2017-04-30,2017-05-01,2017-11-01,UTP,2017-04-15,Null,Philips Latin America,1,0,1200
+838304,Litigation Assistant,https://gis.aiesec.org/v2/opportunities/838304,open,unmatched,GT,93,77,2017-05-29,2017-05-29,2018-11-25,UTP,2017-04-13,Null,Dell,1,1,1200
+838303,Litigation Assistant,https://gis.aiesec.org/v2/opportunities/838303,draft,draft,GT,0,77,2017-05-29,2017-05-29,2018-11-25,UTP,2017-04-13,Null,Dell,1,1,Null
+838225,Business Intelligence Analyst,https://gis.aiesec.org/v2/opportunities/838225,open,realized,GT,99,77,2017-04-30,2017-05-29,2018-11-24,UTP,2017-04-12,Null,Dell,1,0,1200
+837875,Agronomist Analyst for Harpy Eagle Reserve,https://gis.aiesec.org/v2/opportunities/837875,draft,draft,GV,0,6,2017-06-04,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-04-11,Null,ANCON,1,1,Null
+837867,Monitor of Harpy Eagle,https://gis.aiesec.org/v2/opportunities/837867,draft,draft,GV,12,8,2017-07-11,2017-06-04,2017-08-01,Virtual Expansion Panama,2017-04-11,Null,ANCON,2,2,Null
+837502,Accounts Payable Analyst,https://gis.aiesec.org/v2/opportunities/837502,open,unmatched,GT,61,52,2017-04-30,2017-05-01,2018-05-01,UTP,2017-04-10,Null,Philips Latin America,1,1,1200
+837400,Order Management Assistant,https://gis.aiesec.org/v2/opportunities/837400,open,unmatched,GT,229,26,2017-05-29,2017-06-19,2017-12-19,UTP,2017-04-10,Null,Philips Latin America,1,1,12000
+837187,Collection Specialist (French Speaker),https://gis.aiesec.org/v2/opportunities/837187,open,unmatched,GT,44,52,2017-05-17,2017-06-05,2018-06-05,UTP,2017-04-09,Null,Philips Latin America,1,1,1200
+837185,Collection Specialist,https://gis.aiesec.org/v2/opportunities/837185,open,unmatched,GT,207,31,2017-06-30,2017-06-05,2018-01-08,UTP,2017-04-08,Null,Philips Latin America,3,0,1200
+837111,Harpy eagle keeper,https://gis.aiesec.org/v2/opportunities/837111,draft,draft,GV,5,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-04-08,Null,ANCON,1,0,Null
+836826,eCommerce Traffic Acquisition Intern,https://gis.aiesec.org/v2/opportunities/836826,open,realized,GT,159,21,2017-06-10,2017-05-01,2017-10-01,UTP,2017-04-07,Null,Adidas Latin America,1,0,1200
+836494,Legal Assistant,https://gis.aiesec.org/v2/opportunities/836494,open,realized,GT,45,74,2017-05-14,2017-05-02,2018-10-06,UTP,2017-04-06,Null,Dell,1,0,1200
+834135,Strategic Buyer,https://gis.aiesec.org/v2/opportunities/834135,open,realized,GT,181,26,2017-06-11,2017-04-17,2017-10-17,UTP,2017-03-30,Null,Nestle Centro America,1,0,1000
+833816,Procurement Suppot Specialist,https://gis.aiesec.org/v2/opportunities/833816,open,realized,GT,131,67,2017-06-30,2017-07-01,2018-10-17,UTP,2017-03-29,Null,Nestle Centro America,1,0,1000
+833043,Social Entrepreneurship Development,https://gis.aiesec.org/v2/opportunities/833043,open,unmatched,GV,43,6,2017-06-30,2017-07-10,2017-08-21,Virtual Expansion Panama,2017-03-27,Null,United Way,15,14,Null
+832841,Finance January,https://gis.aiesec.org/v2/opportunities/832841,open,realized,GT,77,25,2017-04-30,2017-01-11,2017-07-09,UTP,2017-03-27,Null,PHILIPS,1,0,1200
+832836,Finance Intern Credit & Collection,https://gis.aiesec.org/v2/opportunities/832836,open,realized,GT,102,25,2017-04-30,2017-04-17,2017-10-13,UTP,2017-03-27,Null,Philips Latin America,1,0,1200
+832534,Marketing Operations GTM Intern,https://gis.aiesec.org/v2/opportunities/832534,open,realized,GT,251,52,2017-08-02,2017-05-15,2018-05-15,UTP,2017-03-26,Null,Adidas Latin America,1,0,1200
+832522,Brand Communication Intern,https://gis.aiesec.org/v2/opportunities/832522,open,realized,GT,133,55,2017-04-27,2017-05-02,2018-05-22,UTP,2017-03-26,Null,Adidas Latin America,1,0,1200
+830256,Intern,https://gis.aiesec.org/v2/opportunities/830256,open,unmatched,GT,0,13,2017-03-22,2017-03-01,2017-06-01,USMA,2017-03-21,Null,HILTI,1,1,1500
+830249,Project Support,https://gis.aiesec.org/v2/opportunities/830249,draft,draft,GT,156,53,2018-01-31,2017-03-25,2018-03-31,USMA,2017-03-21,Null,HILTI,2,0,1300
+830135,Customer Service Trucking Coordinator,https://gis.aiesec.org/v2/opportunities/830135,open,unmatched,GT,174,74,2017-06-30,2017-04-01,2018-09-01,USMA,2017-03-21,Null,Panalpina,1,1,1000
+830131,Data Quality,https://gis.aiesec.org/v2/opportunities/830131,removed,removed,GT,94,52,2018-07-31,2018-05-04,2019-05-04,USMA,2017-03-21,Null,Panalpina,1,0,1000
+829912,Educational Development Assistance,https://gis.aiesec.org/v2/opportunities/829912,open,unmatched,GV,11,6,2017-05-31,2017-06-05,2017-07-17,UP (University of Panama),2017-03-20,Null,Glasswing International,15,15,Null
+828284,Pharmaco Vigilance Data Analysis Intership,https://gis.aiesec.org/v2/opportunities/828284,open,realized,GT,4,52,2017-03-18,2017-03-20,2018-03-23,USMA,2017-03-17,Null,Sanofi Aventis,1,0,1300
+828279,Pharmaco Vigilant Data Analysis Internship,https://gis.aiesec.org/v2/opportunities/828279,draft,draft,GT,0,None,2017-03-20,Null,Null,USMA,2017-03-17,Null,Sanofi Aventis,1,1,Null
+828119,Marketing Trainee Inm & Derma,https://gis.aiesec.org/v2/opportunities/828119,open,realized,GT,74,52,2017-07-08,2017-07-17,2018-07-17,UTP,2017-03-17,Null,NOVARTIS,1,0,1000
+827513,Medial Affairs Trainee,https://gis.aiesec.org/v2/opportunities/827513,open,unmatched,GT,58,52,2017-05-09,2017-04-17,2018-04-17,UTP,2017-03-15,Null,Janssen,1,1,1200
+827505,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/827505,open,realized,GT,342,52,2017-06-16,2017-05-03,2018-05-02,UTP,2017-03-15,Null,Janssen,2,0,1200
+827367,Administrative Assistant,https://gis.aiesec.org/v2/opportunities/827367,open,unmatched,GV,13,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-15,Null,CASITA DE MAUSI,2,2,Null
+827349,Fundraising Manager,https://gis.aiesec.org/v2/opportunities/827349,open,unmatched,GV,4,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-15,Null,Fundacion El Arca,4,4,Null
+826969,Fundraising Manager,https://gis.aiesec.org/v2/opportunities/826969,draft,draft,GV,0,6,2017-05-28,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,4,4,Null
+826961,Fundraising Team Leader,https://gis.aiesec.org/v2/opportunities/826961,draft,draft,GV,10,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,1,1,Null
+826958,SOCIAL MEDIA CONTENT DESIGNER,https://gis.aiesec.org/v2/opportunities/826958,open,unmatched,GV,7,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,2,2,Null
+826953,BLOG WRITER,https://gis.aiesec.org/v2/opportunities/826953,open,unmatched,GV,7,6,2017-05-31,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,2,2,Null
+826898,Video Producer,https://gis.aiesec.org/v2/opportunities/826898,open,unmatched,GV,7,6,2017-05-28,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,2,2,Null
+826881,Team Leader marketing and publicity,https://gis.aiesec.org/v2/opportunities/826881,open,unmatched,GV,5,6,2017-05-28,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-14,Null,Fundacion El Arca,1,1,Null
+826860,Comercial Planning Intern,https://gis.aiesec.org/v2/opportunities/826860,removed,removed,GT,959,47,2017-11-30,2017-11-30,2018-10-31,USMA,2017-03-14,Null,DEC Cosmetiques S.A. - Belcorp,10,9,1400
+826349,Talent Capacity Manager- Improve Project (January 8th),https://gis.aiesec.org/v2/opportunities/826349,open,unmatched,GV,18,7,2017-12-31,2018-01-02,2018-02-21,UP (University of Panama),2017-03-13,Null,AIESEC en UP - Panama,2,1,Null
+826300,External Relations Manager- Improve Project (March 2018),https://gis.aiesec.org/v2/opportunities/826300,draft,draft,GV,11,6,2018-01-31,2018-03-12,2018-04-23,UP (University of Panama),2017-03-13,Null,AIESEC en UP - Panama,1,0,Null
+826295,Digital Markenting Manager- Improve Project (December),https://gis.aiesec.org/v2/opportunities/826295,open,unmatched,GV,31,6,2017-11-30,2017-12-12,2018-01-23,UP (University of Panama),2017-03-13,Null,AIESEC en UP - Panama,3,1,Null
+826220,Project Manager- Improve Project (July),https://gis.aiesec.org/v2/opportunities/826220,draft,draft,GV,19,6,2017-09-30,2017-07-17,2017-08-28,UP (University of Panama),2017-03-13,Null,AIESEC,1,1,Null
+826033,External Relations Manager- Improve Project (June),https://gis.aiesec.org/v2/opportunities/826033,open,unmatched,GV,13,7,2017-05-20,2017-06-12,2017-08-03,UP (University of Panama),2017-03-12,Null,AIESEC,4,1,Null
+826007,Digital Marketing manager- Improve Project (June),https://gis.aiesec.org/v2/opportunities/826007,open,unmatched,GV,7,6,2017-05-15,2017-06-12,2017-07-24,UP (University of Panama),2017-03-12,Null,AIESEC,5,2,Null
+825751,Project Manager- Improve Project (June),https://gis.aiesec.org/v2/opportunities/825751,open,unmatched,GV,3,6,2017-04-30,2017-06-12,2017-07-24,UP (University of Panama),2017-03-12,Null,AIESEC,3,2,Null
+824928,Social Entrepreneurship Development,https://gis.aiesec.org/v2/opportunities/824928,open,unmatched,GV,11,6,2017-06-10,2017-06-05,2017-07-17,Virtual Expansion Panama,2017-03-09,Null,United Way,35,34,Null
+824242,Marketing Analyst,https://gis.aiesec.org/v2/opportunities/824242,open,unmatched,GT,137,53,2017-04-11,2017-03-21,2018-03-31,USMA,2017-03-08,Null,Sanofi Aventis,1,1,1200
+824128,Channel Marketing,https://gis.aiesec.org/v2/opportunities/824128,open,realized,GT,175,55,2017-04-30,2017-03-27,2018-04-20,UTP,2017-03-07,Null,Dell,1,0,1200
+824112,Financial Analysis Sr. Analyst,https://gis.aiesec.org/v2/opportunities/824112,open,realized,GT,242,52,2017-05-31,2017-03-27,2018-03-31,UTP,2017-03-07,Null,Dell,1,0,1200
+824087,Internal Control & Processes Intern,https://gis.aiesec.org/v2/opportunities/824087,open,realized,GT,181,54,2017-04-27,2017-03-14,2018-03-31,USMA,2017-03-07,Null,Sanofi Aventis,1,0,1300
+824075,Inside Product Specialist,https://gis.aiesec.org/v2/opportunities/824075,open,realized,GT,107,52,2017-06-20,2017-06-12,2018-06-15,UTP,2017-03-07,Null,Dell,2,0,1200
+824061,Brand Identity Consultant,https://gis.aiesec.org/v2/opportunities/824061,open,realized,GT,159,78,2017-05-03,2017-04-24,2018-10-27,UTP,2017-03-07,Null,Dell,1,0,1200
+824010,Talent Adquisition (Recruiter),https://gis.aiesec.org/v2/opportunities/824010,open,unmatched,GT,68,26,2017-03-15,2017-04-03,2017-10-03,UTP,2017-03-07,Null,Philips Latin America,1,1,1200
+819880,Financial Planning and Analysis Intern,https://gis.aiesec.org/v2/opportunities/819880,open,realized,GT,238,26,2017-04-30,2017-04-25,2017-10-25,UTP,2017-02-24,Null,Adidas Latin America,1,0,1200
+819595,Intern Sales Development LAM,https://gis.aiesec.org/v2/opportunities/819595,open,realized,GT,81,26,2017-04-15,2017-03-16,2017-09-16,UTP,2017-02-23,Null,Adidas Latin America,1,0,1000
+819288,Intern,https://gis.aiesec.org/v2/opportunities/819288,open,realized,GT,126,6,2017-04-30,2017-04-30,2017-06-16,USMA,2017-02-23,Null,HILTI,1,0,1500
+819241,Medical Trainee,https://gis.aiesec.org/v2/opportunities/819241,open,realized,GT,50,52,2017-10-08,2017-09-19,2018-09-19,UTP,2017-02-22,Null,NOVARTIS,1,0,1000
+818876,ProDeploy Project Manager,https://gis.aiesec.org/v2/opportunities/818876,open,realized,GT,78,26,2017-03-12,2017-04-03,2017-10-07,UTP,2017-02-21,Null,Dell,1,0,1200
+818827,Legal Counsel,https://gis.aiesec.org/v2/opportunities/818827,open,unmatched,GT,59,52,2017-03-20,2017-03-10,2018-03-10,UTP,2017-02-21,Null,PHILIPS,1,1,1500
+817216,Improve Panama - Hotel Management,https://gis.aiesec.org/v2/opportunities/817216,draft,draft,GE,102,12,2017-09-01,2017-09-05,2017-12-01,USMA,2017-02-16,Null,Selina Hostels,16,12,Null
+817214,Hotel Management,https://gis.aiesec.org/v2/opportunities/817214,draft,draft,GE,0,None,2017-02-28,Null,Null,USMA,2017-02-16,Null,Selina Hostels,5,5,Null
+817205,Improve Panama - Marketing,https://gis.aiesec.org/v2/opportunities/817205,open,unmatched,GE,22,12,2017-02-28,2017-04-03,2017-06-30,USMA,2017-02-16,Null,Selina Hostels,5,5,Null
+816851,Finance Assistant,https://gis.aiesec.org/v2/opportunities/816851,open,realized,GT,193,48,2017-05-13,2017-04-24,2018-03-30,USMA,2017-02-15,Null,Sanofi Aventis,1,0,1300
+816847,HR Manager,https://gis.aiesec.org/v2/opportunities/816847,open,realized,GT,194,26,2017-05-01,2017-03-03,2017-09-03,UTP,2017-02-15,Null,Philips Latin America,1,0,1200
+815164,Financial Analyst,https://gis.aiesec.org/v2/opportunities/815164,open,realized,GT,12,6,2017-03-31,2017-02-13,2017-03-31,USMA,2017-02-09,Null,HILTI,1,0,1500
+815135,Financial Analysis,https://gis.aiesec.org/v2/opportunities/815135,open,realized,GT,200,52,2017-04-09,2017-04-24,2018-04-28,UTP,2017-02-09,Null,Dell,1,0,1200
+815118,Data Report Specialist,https://gis.aiesec.org/v2/opportunities/815118,open,realized,GT,78,52,2017-05-26,2017-04-03,2018-04-07,USMA,2017-02-09,Null,Sanofi Aventis,1,0,1300
+814649,Order Fulfillment Intern,https://gis.aiesec.org/v2/opportunities/814649,open,realized,GT,116,52,2017-03-29,2017-03-27,2018-03-27,UTP,2017-02-06,Null,Adidas Latin America,1,0,1200
+813150,Project Program Management Advisor,https://gis.aiesec.org/v2/opportunities/813150,open,completed,GT,15,72,2017-02-28,2017-02-06,2018-06-29,UTP,2017-02-02,Null,Dell,1,0,1200
+812252,Intern - Oro Project,https://gis.aiesec.org/v2/opportunities/812252,draft,draft,GT,0,52,2017-04-29,2017-03-01,2018-03-01,USMA,2017-01-31,Null,HILTI,2,2,1500
+810808,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810808,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-26,Null,Sanofi Aventis,1,1,Null
+810650,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810650,open,realized,GT,71,52,2017-03-31,2017-04-03,2018-04-07,USMA,2017-01-26,Null,Sanofi Aventis,1,0,1300
+810649,Health, Security and Enviroment & Security Manager,https://gis.aiesec.org/v2/opportunities/810649,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-26,Null,Sanofi Aventis,1,1,Null
+810643,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810643,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-26,Null,Sanofi Aventis,1,1,Null
+810639,Heath, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810639,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-26,Null,Sanofi Aventis,1,1,Null
+810593,Accounting Coordinator,https://gis.aiesec.org/v2/opportunities/810593,draft,draft,GT,228,26,2018-03-31,2018-03-17,2018-09-17,UTP,2017-01-25,Null,NESTLE,1,0,1200
+810308,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810308,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-24,Null,Sanofi Aventis,1,1,Null
+810307,Desicion Support Specialist,https://gis.aiesec.org/v2/opportunities/810307,draft,draft,GT,88,52,2017-09-30,2017-09-22,2018-09-22,UTP,2017-01-24,Null,NESTLE,1,0,1200
+810304,Healt, Security and Enviroment & Security Department,https://gis.aiesec.org/v2/opportunities/810304,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-24,Null,Sanofi Aventis,1,1,Null
+810100,Decision Support Specialist,https://gis.aiesec.org/v2/opportunities/810100,draft,draft,GT,327,19,2018-02-28,2018-02-19,2018-07-06,UTP,2017-01-23,Null,NESTLE,1,0,1200
+810079,Healt, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810079,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-23,Null,Sanofi Aventis,1,1,Null
+810077,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/810077,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-23,Null,Sanofi Aventis,1,1,Null
+809322,Health Security Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/809322,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-19,Null,Sanofi Aventis,1,1,Null
+809152,Health, Security and Enviroment & Security Analyst,https://gis.aiesec.org/v2/opportunities/809152,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-18,Null,Sanofi Aventis,1,1,Null
+809090,Young International Specialist CSA - Panama,https://gis.aiesec.org/v2/opportunities/809090,open,realized,GT,162,81,2017-01-26,2017-03-06,2018-09-30,UTP,2017-01-18,Null,Deutsche Post DHL Group - Panama,1,0,1600
+808924,HSE & Security Analyst,https://gis.aiesec.org/v2/opportunities/808924,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-18,Null,Sanofi Aventis,1,1,Null
+808842,HSE & Security Analyst,https://gis.aiesec.org/v2/opportunities/808842,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-17,Null,Sanofi Aventis,1,1,Null
+808784,Record to Report Intern (Accounting),https://gis.aiesec.org/v2/opportunities/808784,open,realized,GT,60,52,2017-03-31,2017-03-03,2018-03-03,UTP,2017-01-17,Null,Philips,1,0,1200
+808644,HSE & Security Analyst,https://gis.aiesec.org/v2/opportunities/808644,draft,draft,GT,0,None,2017-02-28,Null,Null,USMA,2017-01-17,Null,Sanofi Aventis,1,1,Null
+807920,Integration Business Analyst,https://gis.aiesec.org/v2/opportunities/807920,open,realized,GT,4,25,2017-01-13,2017-01-16,2017-07-14,UTP,2017-01-12,Null,JCDecaux Panamá,1,0,1000
+805161,Purchasing Agent,https://gis.aiesec.org/v2/opportunities/805161,open,realized,GT,127,52,2017-02-20,2017-01-30,2018-02-02,USMA,2016-12-29,Null,Sanofi Aventis,1,0,1300
+805108,Service Solution Assistant,https://gis.aiesec.org/v2/opportunities/805108,open,realized,GT,216,78,2017-05-31,2017-01-16,2018-07-20,UTP,2016-12-28,Null,DELL,4,0,1200
+805090,Customer Service,https://gis.aiesec.org/v2/opportunities/805090,open,unmatched,GT,3,8,2017-02-28,2017-01-05,2017-03-05,USMA,2016-12-28,Null,FIJE,1,1,0
+805087,Sales,https://gis.aiesec.org/v2/opportunities/805087,open,unmatched,GT,36,2,2017-02-28,2017-03-01,2017-03-19,USMA,2016-12-28,Null,FIJE,2,1,0
+805076,Inside Sales,https://gis.aiesec.org/v2/opportunities/805076,open,realized,GT,2,25,2017-01-31,2017-01-01,2017-07-01,USMA,2016-12-28,Null,Panalpina,1,0,1000
+804548,Events Coordinator,https://gis.aiesec.org/v2/opportunities/804548,open,realized,GT,247,54,2017-02-28,2017-03-01,2018-03-15,UTP,2016-12-22,Null,MSD Central America & The Caribbean,1,0,1,000
+802562,Business Development Rep,https://gis.aiesec.org/v2/opportunities/802562,open,unmatched,GT,152,77,2017-02-28,2017-02-27,2018-08-25,UTP,2016-12-10,Null,Dell,1,1,1600
+802547,Marketing and Administrative Assistant,https://gis.aiesec.org/v2/opportunities/802547,open,realized,GT,204,78,2017-01-11,2017-01-10,2018-07-13,UTP,2016-12-10,Null,Sanofi Aventis,1,0,1200
+802223,ASESOR DE RELACIONES PÚBLICAS  ALIANZAS CORPORATIVAS Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/802223,draft,draft,GE,0,8,2017-01-31,2017-01-09,2017-03-09,USMA,2016-12-07,Null,Fundacion Internacional de Jovenes emprendedores,1,1,0
+802222,ASESOR DE PRACTICAS PROFESIONALES  DESARROLLO  ORGANIZACIONAL - Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/802222,draft,draft,GE,0,8,2017-01-31,2017-01-09,2017-03-09,USMA,2016-12-07,Null,Fundacion Internacional de Jovenes emprendedores,1,1,0
+801698,Regulatory Excellence Support,https://gis.aiesec.org/v2/opportunities/801698,open,realized,GT,149,52,2017-02-12,2017-01-10,2018-01-12,USMA,2016-12-04,Null,Sanofi Aventis,1,0,1300
+801696,Regulatory Excellence Support,https://gis.aiesec.org/v2/opportunities/801696,draft,draft,GT,0,52,2016-12-31,2017-01-10,2018-01-12,USMA,2016-12-04,Null,Sanofi Aventis,1,1,Null
+801505,CLOSED- Intern Sales Development LAM,https://gis.aiesec.org/v2/opportunities/801505,open,unmatched,GT,153,25,2016-12-15,2017-01-10,2017-07-10,UTP,2016-12-03,Null,Adidas Latin America,1,1,1,000.00
+800619,Financial Analyst,https://gis.aiesec.org/v2/opportunities/800619,open,unmatched,GT,268,47,2017-04-05,2017-02-13,2018-01-12,UTP,2016-11-29,Null,Dell Panama - UTP,1,1,1200
+799758,Product Marketing Analyst,https://gis.aiesec.org/v2/opportunities/799758,open,realized,GT,197,77,2016-12-14,2016-12-12,2018-06-08,USMA,2016-11-25,Null,Dell Panama - USMA,1,0,1200
+798836,Graphic Design,https://gis.aiesec.org/v2/opportunities/798836,open,unmatched,GT,32,52,2017-01-26,2017-01-03,2018-01-03,USMA,2016-11-22,Null,Liga 10,1,1,800
+798835,Administrative Assistant,https://gis.aiesec.org/v2/opportunities/798835,open,completed,GT,112,52,2016-12-22,2017-01-03,2018-01-03,USMA,2016-11-22,Null,Liga 10,1,0,800
+797195,Organization Development,https://gis.aiesec.org/v2/opportunities/797195,open,unmatched,GV,16,6,2016-12-31,2017-01-09,2017-02-20,ISTMO,2016-11-14,Null,TECHO PANAMA,7,6,0
+796868,Graphic Design-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/796868,open,unmatched,GE,13,8,2017-01-24,2017-01-10,2017-03-10,USMA,2016-11-13,Null,Social Media Co5,1,1,0
+796867,Marketing-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/796867,open,unmatched,GE,51,8,2017-01-10,2017-01-10,2017-03-10,USMA,2016-11-13,Null,Proyecto Vive S.A.,2,2,0
+795671,Expert Member Volunteer,https://gis.aiesec.org/v2/opportunities/795671,open,unmatched,GV,24,6,2016-12-31,2017-03-27,2017-05-08,Virtual Expansion Panama,2016-11-08,Null,Special Olympics,200,200,0
+795666,Team Leader Volunteer,https://gis.aiesec.org/v2/opportunities/795666,open,unmatched,GV,15,6,2016-12-31,2017-03-27,2017-05-08,Virtual Expansion Panama,2016-11-07,Null,Special Olympics,150,150,0
+795656,Market Research Knowledge Mgt. Assistant,https://gis.aiesec.org/v2/opportunities/795656,open,realized,GT,325,77,2017-07-31,2017-03-06,2018-09-02,UTP,2016-11-07,Null,Dell Panama - UTP,1,0,1200
+795584,Trade Marketing Intern NOLA,https://gis.aiesec.org/v2/opportunities/795584,draft,draft,GT,259,31,2016-11-30,2017-12-05,2018-07-13,UTP,2016-11-07,Null,Dell Panama - UTP,1,0,1200
+795498,Finance Intern,https://gis.aiesec.org/v2/opportunities/795498,open,realized,GT,161,52,2017-01-11,2016-11-28,2017-12-01,UTP,2016-11-07,Null,Dell Panama - UTP,1,0,1200
+792546,administrative assistant,https://gis.aiesec.org/v2/opportunities/792546,open,realized,GT,24,52,2016-11-02,2016-11-07,2017-11-08,UTP,2016-10-31,Null,ZED,1,0,1000
+792040,Human Resources Support,https://gis.aiesec.org/v2/opportunities/792040,open,realized,GT,343,77,2017-03-31,2017-04-03,2018-09-30,USMA,2016-10-29,Null,Sanofi Aventis,1,0,1300
+792007,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/792007,open,unmatched,GT,217,52,2016-11-30,2016-11-21,2017-11-24,UTP,2016-10-29,Null,Dell Panama - UTP,1,1,1200
+791990,Sales Support,https://gis.aiesec.org/v2/opportunities/791990,open,unmatched,GT,194,52,2016-11-30,2016-11-21,2017-11-24,UTP,2016-10-29,Null,Dell Panama - UTP,1,1,1200
+791510,Finance Intern,https://gis.aiesec.org/v2/opportunities/791510,open,realized,GT,62,78,2016-11-21,2016-11-07,2018-05-11,UTP,2016-10-27,Null,Dell Panama - UTP,1,0,1200
+791504,Special Pricing Analyst,https://gis.aiesec.org/v2/opportunities/791504,open,realized,GT,97,52,2016-11-14,2016-11-14,2017-11-17,UTP,2016-10-27,Null,Dell Panama - UTP,1,0,1200
+791435,Brand Manager Intern BE,https://gis.aiesec.org/v2/opportunities/791435,open,unmatched,GT,168,52,2016-11-15,2016-11-16,2017-11-16,UTP,2016-10-27,Null,Robert Bosch Panama,1,1,1000
+791386,Information Technology - Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/791386,open,unmatched,GE,16,8,2016-12-09,2016-12-13,2017-02-10,USMA,2016-10-27,Null,Proyecto Vive S.A.,1,1,0
+791381,Sales Support,https://gis.aiesec.org/v2/opportunities/791381,open,realized,GT,62,26,2016-11-30,2016-12-01,2017-06-02,USMA,2016-10-27,Null,Panalpina,1,0,1000
+791169,Talent Searcher,https://gis.aiesec.org/v2/opportunities/791169,draft,draft,GV,0,None,2017-02-10,Null,Null,UTP,2016-10-27,Null,Universidad Tecnologica de Panama (UTP),8,8,Null
+791168,Talent Searcher,https://gis.aiesec.org/v2/opportunities/791168,open,unmatched,GV,22,7,2017-02-10,2017-01-10,2017-03-05,UTP,2016-10-27,Null,Universidad Tecnologica de Panama (UTP),8,3,0
+790909,Purchasing Specialist,https://gis.aiesec.org/v2/opportunities/790909,draft,draft,GT,0,None,2016-11-01,Null,Null,UTP,2016-10-26,Null,Adidas Latin America,1,1,Null
+790908,Purchasing Specialist,https://gis.aiesec.org/v2/opportunities/790908,open,realized,GT,52,17,2016-11-01,2016-11-01,2017-03-01,UTP,2016-10-26,Null,Adidas Latin America,1,0,1000
+790907,Purchasing Specialist,https://gis.aiesec.org/v2/opportunities/790907,draft,draft,GT,0,None,2016-11-01,Null,Null,UTP,2016-10-26,Null,Adidas Latin America,1,1,Null
+790906,Purchasing Specialist,https://gis.aiesec.org/v2/opportunities/790906,draft,draft,GT,0,None,2016-11-01,Null,Null,UTP,2016-10-26,Null,Adidas Latin America,1,1,Null
+790865,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790865,open,unmatched,GT,41,30,2017-01-25,2016-12-01,2017-06-30,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,1000
+790863,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790863,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790864,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790864,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790862,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790862,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790861,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790861,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790860,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790860,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790859,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790859,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790858,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790858,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790857,Marketing Traineer,https://gis.aiesec.org/v2/opportunities/790857,draft,draft,GT,0,None,2016-10-30,Null,Null,UTP,2016-10-26,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+790686,Shopping Assistant,https://gis.aiesec.org/v2/opportunities/790686,open,realized,GT,39,22,2016-12-31,2016-11-21,2017-04-30,UTP,2016-10-26,Null,MSD Central America & The Caribbean,1,0,1000
+790656,Brand Communications Intern,https://gis.aiesec.org/v2/opportunities/790656,open,unmatched,GT,156,104,2016-11-15,2016-12-01,2018-12-01,UTP,2016-10-25,Null,Adidas Latin America,1,1,1000
+790591,Promotion Analyst,https://gis.aiesec.org/v2/opportunities/790591,open,unmatched,GT,16,25,2017-02-25,2016-12-01,2017-05-31,UTP,2016-10-25,Null,MSD Central America & The Caribbean,1,1,1000
+790563,Customer Service,https://gis.aiesec.org/v2/opportunities/790563,open,realized,GE,50,80,2016-11-16,2016-11-16,2018-05-31,USMA,2016-10-25,Null,Panalpina,2,0,1000
+790483,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790483,open,completed,GT,124,52,2017-01-15,2017-01-03,2018-01-02,UTP,2016-10-25,Null,Adidas Latin America,1,0,1000
+790482,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790482,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790469,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790469,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790468,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790468,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790467,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790467,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790466,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790466,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790465,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790465,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790464,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790464,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790463,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790463,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790462,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790462,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+790461,Financial Planning & Analysis,https://gis.aiesec.org/v2/opportunities/790461,draft,draft,GT,0,None,2016-11-30,Null,Null,UTP,2016-10-25,Null,Adidas Latin America,1,1,Null
+787484,Young International Specialist CSA - Panama 2,https://gis.aiesec.org/v2/opportunities/787484,open,realized,GT,150,82,2016-10-31,2017-01-02,2018-08-01,UTP,2016-10-19,Null,Deutsche Post DHL Group - Panama,1,0,1600
+787482,Young International Specialist CSA - Panama 1,https://gis.aiesec.org/v2/opportunities/787482,open,unmatched,GT,161,82,2016-10-31,2017-01-02,2018-08-01,UTP,2016-10-19,Null,Deutsche Post DHL Group - Panama,1,1,1600
+786602,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/786602,open,unmatched,GT,143,51,2016-11-07,2016-10-24,2017-10-21,UTP,2016-10-14,Null,Dell Panama - UTP,3,1,1200
+786306,Organization Management,https://gis.aiesec.org/v2/opportunities/786306,open,realized,GV,1,7,2016-10-14,2016-10-14,2016-12-08,ISTMO,2016-10-12,Null,United Way,1,0,0
+786262,Customer Service (Air Freight),https://gis.aiesec.org/v2/opportunities/786262,open,realized,GT,45,78,2016-11-20,2016-12-01,2018-06-01,USMA,2016-10-12,Null,Panalpina,1,0,1000
+785751,Claims&Insurance Service Assistant,https://gis.aiesec.org/v2/opportunities/785751,open,realized,GT,1,26,2016-11-30,2016-10-17,2017-04-17,USMA,2016-10-10,Null,Panalpina,1,0,1000
+784782,Improve Panama - Customer Service,https://gis.aiesec.org/v2/opportunities/784782,open,realized,GE,35,15,2017-05-09,2017-06-12,2017-09-30,USMA,2016-10-04,Null,Canal de Empresarias,2,0,None
+784283,Environment Education,https://gis.aiesec.org/v2/opportunities/784283,draft,draft,GV,0,None,2017-01-31,Null,Null,VERAGUAS,2016-10-01,Null,FUSODEP,1,1,Null
+784282,Environment Education,https://gis.aiesec.org/v2/opportunities/784282,draft,draft,GV,0,None,2017-01-31,Null,Null,VERAGUAS,2016-10-01,Null,FUSODEP,2,2,Null
+784281,Environment Education,https://gis.aiesec.org/v2/opportunities/784281,draft,draft,GV,0,None,2017-01-31,Null,Null,VERAGUAS,2016-10-01,Null,FUSODEP,2,2,Null
+784280,Environment Education,https://gis.aiesec.org/v2/opportunities/784280,draft,draft,GV,0,None,2017-01-31,Null,Null,VERAGUAS,2016-10-01,Null,FUSODEP,2,2,Null
+783640,Canal de Empresarias,https://gis.aiesec.org/v2/opportunities/783640,draft,draft,GE,0,None,2017-02-28,Null,Null,USMA,2016-09-28,Null,Canal de Empresarias,1,1,Null
+783639,Canal de Empresarias,https://gis.aiesec.org/v2/opportunities/783639,draft,draft,GE,0,None,2017-02-28,Null,Null,USMA,2016-09-28,Null,Canal de Empresarias,1,1,Null
+783638,Improve Panama - Graphic Designer,https://gis.aiesec.org/v2/opportunities/783638,open,unmatched,GE,15,8,2017-07-01,2017-06-12,2017-08-12,USMA,2016-09-28,Null,Canal de Empresarias,2,1,0
+783637,Improve Panama - Information Technology,https://gis.aiesec.org/v2/opportunities/783637,open,unmatched,GE,29,8,2017-07-01,2017-06-12,2017-08-12,USMA,2016-09-28,Null,Canal de Empresarias,2,1,0
+783636,Improve Panama - Sales,https://gis.aiesec.org/v2/opportunities/783636,open,unmatched,GE,42,8,2017-07-01,2017-06-12,2017-08-12,USMA,2016-09-28,Null,Canal de Empresarias,2,1,0
+783635,Improve Panama - Marketing,https://gis.aiesec.org/v2/opportunities/783635,draft,draft,GE,70,8,2018-01-31,2018-01-09,2018-03-11,USMA,2016-09-28,Null,Canal de Empresarias,2,0,0
+782438,Marketing Research Analyst -Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/782438,open,unmatched,GE,29,8,2017-01-09,2017-01-10,2017-03-10,USMA,2016-09-24,Null,Ubica,7,5,0
+782429,Information Technology-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/782429,open,unmatched,GE,16,8,2017-01-03,2017-01-10,2017-03-10,USMA,2016-09-24,Null,Delivery Zone,2,2,0
+782420,Talent Capacity Manager,https://gis.aiesec.org/v2/opportunities/782420,draft,draft,GV,10,7,2017-01-31,2016-12-12,2017-02-03,VERAGUAS,2016-09-24,Null,FUSODEP,1,0,0
+782411,Digital Marketing,https://gis.aiesec.org/v2/opportunities/782411,open,matched,GV,5,7,2016-12-31,2016-12-12,2017-02-03,VERAGUAS,2016-09-23,Null,FUSODEP,1,0,0
+782405,External Relations,https://gis.aiesec.org/v2/opportunities/782405,draft,draft,GV,6,6,2016-12-31,2016-12-12,2017-01-28,VERAGUAS,2016-09-23,Null,FUSODEP,2,0,0
+782396,Marketing - Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/782396,open,unmatched,GE,67,8,2017-01-04,2017-01-10,2017-03-10,USMA,2016-09-23,Null,Wander Panther,2,2,0
+782338,Enviromental Education,https://gis.aiesec.org/v2/opportunities/782338,open,unmatched,GV,27,7,2017-02-01,2017-01-09,2017-02-27,ISTMO,2016-09-23,Null,UNIVERSIDAD LATINA DE PANAMA,10,4,0
+781968,Administrative Assistant, Enterprise Solution Group Product MArketing Latam,https://gis.aiesec.org/v2/opportunities/781968,open,realized,GT,107,26,2016-10-04,2016-10-03,2017-04-08,UTP,2016-09-22,Null,Dell Panama - UTP,1,0,1200
+781771,Project Manager,https://gis.aiesec.org/v2/opportunities/781771,open,unmatched,GV,5,7,2016-12-31,2016-11-22,2017-01-14,VERAGUAS,2016-09-21,Null,FUSODEP,2,1,0
+781647,eCom Website Set-up Intern LAM,https://gis.aiesec.org/v2/opportunities/781647,draft,draft,GT,142,78,2017-02-28,2017-03-01,2018-09-01,UTP,2016-09-20,Null,Adidas Latin America,1,0,1,000.00
+781646,eCom Website Set-up Intern LAM,https://gis.aiesec.org/v2/opportunities/781646,draft,draft,GT,0,None,2016-11-22,Null,Null,UTP,2016-09-20,Null,Adidas Latin America,1,1,Null
+781645,eCom Website Set-up Intern LAM,https://gis.aiesec.org/v2/opportunities/781645,draft,draft,GT,0,None,2016-11-22,Null,Null,UTP,2016-09-20,Null,Adidas Latin America,1,1,Null
+781644,eCom Website Set-up Intern LAM,https://gis.aiesec.org/v2/opportunities/781644,draft,draft,GT,0,None,2016-11-22,Null,Null,UTP,2016-09-20,Null,Adidas Latin America,1,1,Null
+781643,eCom Website Set-up Intern LAM,https://gis.aiesec.org/v2/opportunities/781643,draft,draft,GT,0,None,2016-11-22,Null,Null,UTP,2016-09-20,Null,Adidas Latin America,1,1,Null
+781184,External Relation,https://gis.aiesec.org/v2/opportunities/781184,open,unmatched,GV,14,7,2017-01-01,2017-01-09,2017-02-27,ISTMO,2016-09-18,Null,UNIVERSIDAD LATINA DE PANAMA,6,4,0
+781178,Digital Marketing,https://gis.aiesec.org/v2/opportunities/781178,open,unmatched,GV,11,7,2016-12-31,2017-01-09,2017-02-27,ISTMO,2016-09-18,Null,UNIVERSIDAD LATINA DE PANAMA,6,5,0
+781177,Project Manager,https://gis.aiesec.org/v2/opportunities/781177,open,unmatched,GV,10,7,2016-12-31,2017-01-09,2017-02-27,ISTMO,2016-09-18,Null,UNIVERSIDAD LATINA DE PANAMA,4,2,0
+781173,Talent Capacity Manager,https://gis.aiesec.org/v2/opportunities/781173,open,unmatched,GV,6,7,2017-01-31,2017-01-09,2017-02-27,ISTMO,2016-09-18,Null,UNIVERSIDAD LATINA DE PANAMA,11,10,0
+780870,Customer Service- Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/780870,open,unmatched,GT,8,13,2016-10-09,2016-10-10,2017-01-10,USMA,2016-09-16,Null,Tutorez,1,1,Unpaid
+780487,Marketing support analyst,https://gis.aiesec.org/v2/opportunities/780487,open,realized,GT,129,52,2016-09-30,2016-12-05,2017-12-09,USMA,2016-09-14,Null,Sanofi Aventis,1,0,1300
+780290,Product Marketing Intern,https://gis.aiesec.org/v2/opportunities/780290,open,realized,GT,199,52,2016-11-21,2016-09-30,2017-09-30,UTP,2016-09-13,Null,Dell Panama - UTP,1,0,1200
+780286,Client Merchandising,https://gis.aiesec.org/v2/opportunities/780286,open,realized,GT,202,86,2016-10-10,2016-10-10,2018-06-09,UTP,2016-09-13,Null,Dell Panama - UTP,1,0,1200
+780254,SharePoint Development,https://gis.aiesec.org/v2/opportunities/780254,draft,draft,GT,184,52,2017-09-30,2017-10-01,2018-10-01,UTP,2016-09-12,Null,Dell Panama - UTP,1,1,1200
+780043,External relations,https://gis.aiesec.org/v2/opportunities/780043,draft,draft,GV,0,None,2016-10-31,Null,Null,VERAGUAS,2016-09-12,Null,Universidad Tecnológica de Panamá,2,2,Null
+780041,Enviromental Education,https://gis.aiesec.org/v2/opportunities/780041,draft,draft,GV,0,8,2016-10-31,2016-12-19,2017-02-13,VERAGUAS,2016-09-12,Null,Universidad Tecnológica de Panamá,1,1,0
+780038,Digital Marketing,https://gis.aiesec.org/v2/opportunities/780038,draft,draft,GV,0,7,2016-10-31,2016-11-19,2017-01-07,VERAGUAS,2016-09-12,Null,Universidad Tecnológica de Panamá,2,2,0
+780037,Digital Marketing,https://gis.aiesec.org/v2/opportunities/780037,draft,draft,GV,0,None,2016-10-31,Null,Null,VERAGUAS,2016-09-12,Null,Universidad Tecnológica de Panamá,2,2,Null
+778689,Treasury Assistant,https://gis.aiesec.org/v2/opportunities/778689,open,unmatched,GT,87,25,2016-09-12,2016-11-01,2017-04-30,UTP,2016-09-06,Null,Philips Latin America,1,1,1,300
+778151,Medical Affairs lead,https://gis.aiesec.org/v2/opportunities/778151,open,realized,GT,46,52,2017-01-31,2017-02-01,2018-02-01,UTP,2016-09-03,Null,Grünenthal- S.A.,1,0,1200
+778104,Talent  Capacity Manager,https://gis.aiesec.org/v2/opportunities/778104,open,unmatched,GV,7,7,2017-01-31,2016-11-22,2017-01-13,ISTMO,2016-09-03,Null,UNIVERSIDAD LATINA DE PANAMA,8,7,0
+777985,Internal Communication Especialist,https://gis.aiesec.org/v2/opportunities/777985,open,realized,GT,123,28,2016-09-30,2016-09-12,2017-03-31,Virtual Expansion Panama,2016-09-03,Null,Cervecería Nacional/SabMiller,1,0,1000
+777947,Treasury Assistant,https://gis.aiesec.org/v2/opportunities/777947,draft,draft,GT,0,None,2016-09-09,Null,Null,UTP,2016-09-02,Null,Philips Latin America,1,1,Null
+776997,Growth Manager for NGO,https://gis.aiesec.org/v2/opportunities/776997,open,unmatched,GV,31,6,2017-01-29,2017-01-07,2017-02-18,UTP,2016-08-31,Null,Universidad Tecnologica de Panama (UTP),9,4,0
+776995,Marketing Hacker for NGO,https://gis.aiesec.org/v2/opportunities/776995,open,unmatched,GV,8,6,2017-01-01,2017-01-11,2017-02-26,UTP,2016-08-31,Null,Universidad Tecnologica de Panama (UTP),11,7,0
+776986,External Administrator  for NGO,https://gis.aiesec.org/v2/opportunities/776986,open,unmatched,GV,14,6,2016-12-01,2017-01-11,2017-02-26,UTP,2016-08-31,Null,Universidad Tecnologica de Panama (UTP),9,4,0
+776913,Talent Searcher for NGO,https://gis.aiesec.org/v2/opportunities/776913,open,unmatched,GV,4,6,2016-09-30,2017-01-11,2017-02-26,UTP,2016-08-31,Null,Universidad Tecnologica de Panama (UTP),1,1,0
+776912,HOla no sirve,https://gis.aiesec.org/v2/opportunities/776912,draft,draft,GV,0,11,2017-02-18,2016-12-05,2017-02-26,UTP,2016-08-31,Null,Universidad Tecnológica de Panamá,9,9,0
+776906,Improve Project ~ Arvita,https://gis.aiesec.org/v2/opportunities/776906,draft,draft,GV,0,6,2017-01-08,2017-01-11,2017-02-26,UTP,2016-08-31,Null,Global Brigades(Panama),1,1,0
+776905,Improve Project ~ Global Brigades,https://gis.aiesec.org/v2/opportunities/776905,draft,draft,GV,0,None,2017-01-02,Null,Null,UTP,2016-08-31,Null,Global Brigades(Panama),2,2,Null
+776874,Improve Project ~ FAS Panama,https://gis.aiesec.org/v2/opportunities/776874,draft,draft,GV,0,6,2016-12-05,2016-12-05,2017-01-21,UTP,2016-08-31,Null,Arvita,1,1,0
+776872,Improve Project ~AFS,https://gis.aiesec.org/v2/opportunities/776872,draft,draft,GV,0,10,2017-01-01,2016-12-05,2017-02-19,UTP,2016-08-31,Null,AFS,1,1,0
+776868,Improve Project ~ ANCEC,https://gis.aiesec.org/v2/opportunities/776868,draft,draft,GV,0,6,2017-02-01,2016-12-05,2017-01-21,UTP,2016-08-31,Null,ANCEC,1,1,0
+776787,Marketing Trainnee,https://gis.aiesec.org/v2/opportunities/776787,open,realized,GT,111,56,2016-10-23,2016-09-15,2017-10-15,UTP,2016-08-30,Null,Novartis Pharma Logistic- Inc.,1,0,1000
+776574,Camoruco Project | UW,https://gis.aiesec.org/v2/opportunities/776574,open,unmatched,GV,39,7,2017-01-31,2016-12-12,2017-01-30,ISTMO,2016-08-30,Null,UNIVERSIDAD LATINA DE PANAMA,22,5,0
+775565,Marketing Communications Analyst,https://gis.aiesec.org/v2/opportunities/775565,open,unmatched,GT,121,26,2016-09-15,2016-09-05,2017-03-10,UTP,2016-08-25,Null,Dell Panama - UTP,1,1,1200
+775530,Online Chat Project Lead, LatAm eBusiness,https://gis.aiesec.org/v2/opportunities/775530,open,realized,GT,17,78,2016-09-12,2016-09-12,2018-03-16,UTP,2016-08-25,Null,Dell Panama - UTP,1,0,1200
+775299,Marketing Trainnee,https://gis.aiesec.org/v2/opportunities/775299,draft,draft,GT,0,None,2016-08-31,Null,Null,UTP,2016-08-24,Null,Novartis Pharma Logistic- Inc.,1,1,1000
+775111,Project Manager,https://gis.aiesec.org/v2/opportunities/775111,open,realized,GV,10,7,2016-12-31,2016-11-22,2017-01-16,ISTMO,2016-08-24,Null,UNIVERSIDAD LATINA DE PANAMA,2,0,0
+775008,Digital Marketing,https://gis.aiesec.org/v2/opportunities/775008,open,unmatched,GV,16,7,2017-02-01,2016-11-22,2017-01-16,ISTMO,2016-08-24,Null,UNIVERSIDAD LATINA DE PANAMA,10,7,0
+774551,Business Excellence Support,https://gis.aiesec.org/v2/opportunities/774551,open,realized,GT,211,52,2016-10-10,2016-10-10,2017-10-13,UTP,2016-08-20,Null,Sanofi Aventis,1,0,1300
+774494,Generando Genero,https://gis.aiesec.org/v2/opportunities/774494,open,unmatched,GV,51,7,2017-02-01,2016-12-11,2017-01-29,UTP,2016-08-20,Null,The United Way,20,5,0
+773954,Front Desk Clerk,https://gis.aiesec.org/v2/opportunities/773954,open,unmatched,GT,95,78,2016-09-29,2016-10-20,2018-04-25,USMA,2016-08-17,Null,Los Mandarinos Hotel Boutique & Spa,1,1,500
+772508,Improve Proyect - Fe y Alegria,https://gis.aiesec.org/v2/opportunities/772508,open,unmatched,GV,0,7,2016-11-01,2016-11-22,2017-01-10,ISTMO,2016-08-16,Null,UNIVERSIDAD LATINA DE PANAMA,1,1,0
+772296,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772296,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772295,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772295,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772294,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772294,open,realized,GT,31,24,2016-08-31,2016-09-12,2017-02-28,UTP,2016-08-15,Null,Adidas Latin America,1,0,1000
+772293,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772293,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772292,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772292,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772291,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772291,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772290,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772290,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+772289,IT Business Solution,https://gis.aiesec.org/v2/opportunities/772289,draft,draft,GT,0,None,2016-08-14,Null,Null,UTP,2016-08-15,Null,Adidas Latin America,1,1,Null
+771905,Marketing GTM,https://gis.aiesec.org/v2/opportunities/771905,open,realized,GT,176,26,2016-09-24,2016-10-01,2017-04-01,UTP,2016-08-12,Null,Adidas Latin America,1,0,1000
+771865,Finance,https://gis.aiesec.org/v2/opportunities/771865,draft,draft,GT,0,None,2016-08-20,Null,Null,UTP,2016-08-12,Null,Philips Latin America,1,1,Null
+771864,Finance,https://gis.aiesec.org/v2/opportunities/771864,open,realized,GT,116,22,2016-08-20,2016-10-04,2017-03-11,UTP,2016-08-12,Null,Philips Latin America,2,0,1200
+771863,Finance,https://gis.aiesec.org/v2/opportunities/771863,draft,draft,GT,0,None,2016-08-20,Null,Null,UTP,2016-08-12,Null,Philips Latin America,1,1,Null
+771862,Finance,https://gis.aiesec.org/v2/opportunities/771862,draft,draft,GT,0,None,2016-08-20,Null,Null,UTP,2016-08-12,Null,Philips Latin America,1,1,Null
+771861,Finance,https://gis.aiesec.org/v2/opportunities/771861,open,unmatched,GT,167,35,2017-05-01,2017-03-03,2017-11-03,UTP,2016-08-12,Null,Philips Latin America,3,0,1200
+771606,Inbound Marketing Intern-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/771606,open,unmatched,GE,30,8,2016-08-21,2016-08-22,2016-10-17,USMA,2016-08-10,Null,Optin Inbound Marketing,1,1,0
+770842,Communication Advisor,https://gis.aiesec.org/v2/opportunities/770842,open,realized,GT,107,24,2016-09-04,2016-09-05,2017-02-24,UTP,2016-08-06,Null,Dell Panama - UTP,1,0,1200
+770836,Database Data Quality,https://gis.aiesec.org/v2/opportunities/770836,open,unmatched,GT,95,51,2017-02-28,2017-02-27,2018-02-24,UTP,2016-08-06,Null,Dell Panama - UTP,1,1,1200
+770636,Marketing-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/770636,open,unmatched,GE,77,8,2017-01-24,2017-01-10,2017-03-10,USMA,2016-08-06,Null,Selina Hostels,2,1,0
+770635,Human Resources-Global Entrepreneur,https://gis.aiesec.org/v2/opportunities/770635,open,unmatched,GE,82,8,2017-01-10,2017-01-10,2017-03-10,USMA,2016-08-06,Null,Selina Hostels,1,1,0
+769981,External Relations,https://gis.aiesec.org/v2/opportunities/769981,open,unmatched,GV,12,8,2017-02-01,2016-11-21,2017-01-16,ISTMO,2016-08-03,Null,UNIVERSIDAD LATINA DE PANAMA,8,7,$ 0
+769963,Email Marketing Intern,https://gis.aiesec.org/v2/opportunities/769963,open,realized,GT,291,52,2016-10-15,2016-10-31,2017-10-30,UTP,2016-08-02,Null,Adidas Latin America,1,0,1000
+769962,Email Marketing Intern,https://gis.aiesec.org/v2/opportunities/769962,draft,draft,GT,0,None,2016-08-31,Null,Null,UTP,2016-08-02,Null,Adidas Latin America,1,1,Null
+769736,Human Resource Coordinator Project,https://gis.aiesec.org/v2/opportunities/769736,open,unmatched,GT,223,26,2016-08-31,2016-08-29,2017-02-27,UTP,2016-08-01,Null,Deutsche Post DHL,1,1,1400
+769712,Human Resouce Coordinator Project,https://gis.aiesec.org/v2/opportunities/769712,draft,draft,GT,0,None,2016-08-31,Null,Null,UTP,2016-08-01,Null,Deutsche Post DHL,1,1,Null
+769700,Financial Analysis Sr. Analyst,https://gis.aiesec.org/v2/opportunities/769700,open,realized,GT,25,52,2016-08-15,2016-08-08,2017-08-11,UTP,2016-08-01,Null,Dell Panama - UTP,1,0,1200
+769697,Network Sales Support Analyst,https://gis.aiesec.org/v2/opportunities/769697,open,realized,GT,111,29,2016-08-31,2016-08-22,2017-03-17,UTP,2016-08-01,Null,Dell Panama - UTP,1,0,1200
+769405,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/769405,open,realized,GT,96,25,2016-10-15,2016-11-07,2017-05-05,UTP,2016-07-30,Null,Dell Panama - UTP,1,0,1200
+769398,Sales Support Intern,https://gis.aiesec.org/v2/opportunities/769398,open,realized,GT,153,26,2016-09-14,2016-08-15,2017-02-17,UTP,2016-07-29,Null,Dell Panama - UTP,1,0,1200
+769335,Accounts Payable Intern,https://gis.aiesec.org/v2/opportunities/769335,draft,draft,GT,103,61,2016-10-31,2016-09-26,2017-12-01,UTP,2016-07-29,Null,Adidas Latin America,3,2,1000
+769130,Comprador de Medios,https://gis.aiesec.org/v2/opportunities/769130,open,unmatched,GT,76,26,2016-08-31,2016-08-15,2017-02-15,UTP,2016-07-28,Null,Action Marketing,1,1,1000USD
+769129,Project Manager,https://gis.aiesec.org/v2/opportunities/769129,open,unmatched,GT,116,74,2016-08-31,2016-08-15,2018-01-15,UTP,2016-07-28,Null,Action Marketing,1,1,1,200USD
+769119,Environmental Education,https://gis.aiesec.org/v2/opportunities/769119,open,unmatched,GV,22,7,2017-01-31,2016-11-22,2017-01-10,ISTMO,2016-07-28,Null,UNIVERSIDAD LATINA DE PANAMA,15,15,0
+768949,Field Marketing Assistant,https://gis.aiesec.org/v2/opportunities/768949,open,realized,GT,44,78,2016-07-31,2016-08-01,2018-02-02,UTP,2016-07-27,Null,Dell Panama - UTP,1,0,1200
+768944,Business Excellent Analyst,https://gis.aiesec.org/v2/opportunities/768944,open,realized,GT,43,52,2016-08-05,2016-07-29,2017-07-28,UTP,2016-07-27,Null,Sanofi Aventis,1,0,1150
+768940,Ethics & Business Integrity Intern – PAC / LATAM,https://gis.aiesec.org/v2/opportunities/768940,open,realized,GT,177,52,2016-11-07,2016-11-07,2017-11-10,UTP,2016-07-26,Null,Sanofi Aventis,1,0,1300
+768795,Portugues Teacher Intern,https://gis.aiesec.org/v2/opportunities/768795,open,realized,GT,73,25,2016-10-31,2016-08-22,2017-02-17,UTP,2016-07-26,Null,Dell Panama - UTP,1,0,1200
+768789,Community Manager,https://gis.aiesec.org/v2/opportunities/768789,open,unmatched,GT,13,27,2016-07-31,2016-08-15,2017-02-21,UTP,2016-07-25,Null,Action Marketing,1,1,1000USD
+768788,English Teacher Intern,https://gis.aiesec.org/v2/opportunities/768788,open,realized,GT,82,26,2016-10-10,2016-10-10,2017-04-14,UTP,2016-07-25,Null,Dell Panama - UTP,1,0,1200
+768645,Generando Genero,https://gis.aiesec.org/v2/opportunities/768645,open,unmatched,GV,75,6,2017-02-28,2016-11-22,2017-01-09,UTP,2016-07-24,Null,The United Way,20,8,0,00
+768562,Recruiter,https://gis.aiesec.org/v2/opportunities/768562,open,realized,GT,80,52,2016-08-13,2016-08-01,2017-08-04,UTP,2016-07-22,Null,Sanofi Aventis,1,0,1150
+767230,Accounting Intern,https://gis.aiesec.org/v2/opportunities/767230,draft,draft,GT,0,None,2016-07-31,Null,Null,UTP,2016-07-12,Null,Philips Latin America,1,1,Null
+767205,Reduced Inequalities,https://gis.aiesec.org/v2/opportunities/767205,draft,draft,GV,0,8,2016-08-31,2016-08-29,2016-10-28,UP (University of Panama),2016-07-11,Null,Dignifica Tu Vida,1,1,no
+767087,Commercial Administrative Coordinator CAC,https://gis.aiesec.org/v2/opportunities/767087,open,unmatched,GT,158,73,2016-07-31,2016-08-01,2017-12-31,UTP,2016-07-11,Null,Acino Latino-Americana S.A.,1,1,1,000 USD
+767085,Marketing Trainee,https://gis.aiesec.org/v2/opportunities/767085,open,unmatched,GT,159,26,2016-07-27,2016-08-01,2017-01-31,UTP,2016-07-11,Null,Novartis Pharma Logistic- Inc.,1,1,1,00 USD
+767084,Sales Coordination Intern,https://gis.aiesec.org/v2/opportunities/767084,open,realized,GT,200,52,2016-08-20,2016-08-01,2017-07-31,UTP,2016-07-11,Null,Adidas Latin America,1,0,1,000 USD
+767082,Inside Sales Support Assistant,https://gis.aiesec.org/v2/opportunities/767082,open,unmatched,GT,139,78,2016-08-31,2016-08-01,2018-02-02,UTP,2016-07-11,Null,Dell Panama - UTP,1,1,1200
+766882,Marketing Trainee,https://gis.aiesec.org/v2/opportunities/766882,draft,draft,GT,0,26,2016-07-31,2016-08-01,2017-01-31,UTP,2016-07-08,Null,Novartis Pharma Logistic- Inc.,1,1,Null
+766611,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/766611,open,realized,GT,72,52,2016-07-31,2016-07-18,2017-07-21,UTP,2016-07-07,Null,Dell Panama - UTP,2,0,1200
+766578,JEFE DE TRANSPORTE,https://gis.aiesec.org/v2/opportunities/766578,open,unmatched,GT,34,35,2016-08-18,2016-07-18,2017-03-24,UTP,2016-07-06,Null,YOBEL SCM,1,1,1000
+766467,Comunicación PAC,https://gis.aiesec.org/v2/opportunities/766467,open,realized,GT,53,26,2016-07-31,2016-08-01,2017-02-03,UTP,2016-07-06,Null,Sanofi Aventis,2,0,1300
+766203,Commercial Administrative Coordinator,https://gis.aiesec.org/v2/opportunities/766203,draft,draft,GT,0,None,2016-09-01,Null,Null,UTP,2016-07-05,Null,Action Marketing,1,1,Null
+766157,Controlling Analyst,https://gis.aiesec.org/v2/opportunities/766157,open,realized,GT,183,51,2016-08-14,2016-07-18,2017-07-14,UTP,2016-07-04,Null,Sanofi Aventis,1,0,1300
+765350,Marketing Operations GTM Intern,https://gis.aiesec.org/v2/opportunities/765350,open,realized,GT,52,54,2016-07-12,2016-07-01,2017-07-18,UTP,2016-07-01,Null,Adidas Latin America,1,0,1000
+765269,BUSINESS PROCESS SPECIALIST,https://gis.aiesec.org/v2/opportunities/765269,open,realized,GT,3,47,2016-07-10,2016-07-04,2017-06-02,UTP,2016-06-30,Null,Deutsche Post DHL,1,0,1300
+764702,Commercial Planning Assistant,https://gis.aiesec.org/v2/opportunities/764702,draft,draft,GT,330,25,2017-01-19,2017-10-02,2018-03-30,USMA,2016-06-28,Null,Belcorp,11,1,1000
+764701,Commercial Planning Assistant,https://gis.aiesec.org/v2/opportunities/764701,draft,draft,GT,0,None,2016-07-31,Null,Null,USMA,2016-06-28,Null,Sanofi Aventis,6,6,Null
+763555,Channel Marketing,https://gis.aiesec.org/v2/opportunities/763555,open,realized,GT,171,21,2016-07-31,2016-08-15,2017-01-13,UTP,2016-06-21,Null,Dell Panama - MC,1,0,1200
+763339,OF Intern,https://gis.aiesec.org/v2/opportunities/763339,open,realized,GE,220,28,2016-07-31,2016-08-15,2017-03-01,UTP,2016-06-21,Null,Adidas Latin America,1,0,1,000
+762843,Sales Support Analyst,https://gis.aiesec.org/v2/opportunities/762843,open,unmatched,GT,231,52,2017-02-10,2017-02-13,2018-02-13,UTP,2016-06-18,Null,Dell Panama - UTP,6,1,1200
+762841,Account Analyst,https://gis.aiesec.org/v2/opportunities/762841,open,realized,GT,208,74,2016-08-22,2016-08-01,2018-01-05,UTP,2016-06-18,Null,Dell Panama - UTP,1,0,1200
+762106,Materials Planner,https://gis.aiesec.org/v2/opportunities/762106,open,unmatched,GT,105,52,2016-08-15,2016-07-22,2017-07-22,USMA,2016-06-15,Null,HILTI,1,1,1200
+759441,Marketing Controller Jr,https://gis.aiesec.org/v2/opportunities/759441,open,unmatched,GT,61,27,2016-12-29,2016-07-25,2017-01-30,USMA,2016-06-06,Null,HILTI,1,1,1200
+758896,Procurement Intern,https://gis.aiesec.org/v2/opportunities/758896,open,realized,GT,128,26,2016-07-31,2016-06-30,2016-12-30,UTP,2016-06-04,Null,Philips Latin America,1,0,1200USD
+758520,Processes Analyst,https://gis.aiesec.org/v2/opportunities/758520,open,realized,GT,77,26,2016-08-16,2016-08-09,2017-02-09,USMA,2016-06-02,Null,TELEFONICA MOVILES PANAMA- S.A.,1,0,1200
+758460,CUSTOMER IMPLEMENTATION SPECIALIST,https://gis.aiesec.org/v2/opportunities/758460,open,realized,GT,280,52,2016-08-14,2016-08-08,2017-08-11,UTP,2016-06-02,Null,Deutsche Post DHL,1,0,1300
+758253,ANALYST BUSINESS ADMINISTRATION,https://gis.aiesec.org/v2/opportunities/758253,open,realized,GT,141,26,2016-09-02,2016-07-25,2017-01-23,USMA,2016-06-02,Null,TELEFONICA MOVILES PANAMA- S.A.,1,0,1200
+758107,Educando - Digital Marketing in Global brigades,https://gis.aiesec.org/v2/opportunities/758107,open,realized,GV,1,6,2016-07-01,2016-07-04,2016-08-15,UTP,2016-06-01,Null,Global Brigades(Panama),1,0,0
+757788,UP Project (microfinance),https://gis.aiesec.org/v2/opportunities/757788,draft,draft,GV,0,8,2016-07-31,2016-05-31,2016-07-29,UP (University of Panama),2016-05-31,Null,UP Project,1,1,no
+757636,Field Marketing Assistant,https://gis.aiesec.org/v2/opportunities/757636,draft,draft,GT,0,74,2016-06-05,2016-07-18,2017-12-19,UTP,2016-05-31,Null,Dell Panama - UTP,1,1,1200$
+757534,Field Marketing Assistant,https://gis.aiesec.org/v2/opportunities/757534,open,unmatched,GT,273,26,2016-06-30,2016-07-04,2017-01-06,UTP,2016-05-30,Null,Dell Panama - UTP,1,1,1200
+757263,MAS Regulatory Coordinator,https://gis.aiesec.org/v2/opportunities/757263,open,realized,GT,76,41,2016-07-31,2016-07-15,2017-05-01,UTP,2016-05-29,Null,Novartis Pharma Logistic- Inc.,1,0,1000
+756874,Copywriter,https://gis.aiesec.org/v2/opportunities/756874,open,unmatched,GT,84,52,2016-06-30,2016-06-13,2017-06-16,Virtual Expansion Panama,2016-05-26,Null,Zed Panama- S.A.,1,1,1000
+756865,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/756865,open,realized,GT,50,52,2016-07-21,2016-07-21,2017-07-21,UTP,2016-05-26,Null,MSD Central America & The Caribbean,2,0,1000
+756808,Accounting Intern,https://gis.aiesec.org/v2/opportunities/756808,open,realized,GT,33,52,2016-11-30,2016-05-31,2017-05-31,UTP,2016-05-26,Null,Adidas Latin America,1,0,1200
+756524,Product Marketing Intern,https://gis.aiesec.org/v2/opportunities/756524,draft,draft,GT,0,None,2016-06-30,Null,Null,UTP,2016-05-25,Null,Dell Panama - UTP,1,1,Null
+756523,Product Marketing Intern,https://gis.aiesec.org/v2/opportunities/756523,open,realized,GT,249,26,2016-07-31,2016-06-20,2016-12-23,UTP,2016-05-25,Null,Dell Panama - UTP,1,0,1200
+756522,Product Marketing Intern,https://gis.aiesec.org/v2/opportunities/756522,draft,draft,GT,0,None,2016-06-30,Null,Null,UTP,2016-05-25,Null,Dell Panama - UTP,1,1,Null
+755858,Channel Marketing Intern,https://gis.aiesec.org/v2/opportunities/755858,open,realized,GT,184,26,2016-09-07,2016-08-29,2017-03-03,UTP,2016-05-23,Null,Dell Panama - UTP,1,0,1200
+754788,BUSINESS PROCESS SPECIALIST,https://gis.aiesec.org/v2/opportunities/754788,open,completed,GT,107,48,2016-07-01,2016-06-25,2017-06-02,USMA,2016-05-19,Null,Deutsche Post DHL,1,0,1300
+754745,Medical Affairs Lead,https://gis.aiesec.org/v2/opportunities/754745,open,realized,GE,9,52,2016-05-27,2016-06-02,2017-06-02,UTP,2016-05-19,Null,Grünenthal- S.A.,1,0,1200
+754644,Medical Affairs Lead,https://gis.aiesec.org/v2/opportunities/754644,draft,draft,GT,0,73,2016-05-25,2016-06-15,2017-11-09,UTP,2016-05-19,Null,Grünenthal- S.A.,1,1,Null
+754643,Medical Affairs Lead,https://gis.aiesec.org/v2/opportunities/754643,draft,draft,GT,0,None,Null,Null,Null,UTP,2016-05-19,Null,Grünenthal- S.A.,1,1,Null
+754052,Trade Marketing Intern,https://gis.aiesec.org/v2/opportunities/754052,draft,draft,GE,192,30,2016-06-30,2016-06-02,2017-01-01,UTP,2016-05-17,Null,Adidas Latin America,1,0,1000
+753982,Finance Projects Intern,https://gis.aiesec.org/v2/opportunities/753982,draft,draft,GT,0,None,2016-05-24,Null,Null,UTP,2016-05-17,Null,Adidas Latin America,1,1,Null
+753816,Global Entrepreneur - Sales,https://gis.aiesec.org/v2/opportunities/753816,open,unmatched,GE,27,8,2017-01-31,2017-01-10,2017-03-10,USMA,2016-05-16,Null,Delivery Zone,5,4,0
+753801,Marketing Assistant,https://gis.aiesec.org/v2/opportunities/753801,open,realized,GT,371,24,2016-07-31,2016-07-04,2016-12-23,UTP,2016-05-16,Null,Dell Panama - UTP,1,0,1200
+753795,Marketing Assistant NOLA,https://gis.aiesec.org/v2/opportunities/753795,open,unmatched,GT,297,78,2016-07-31,2016-07-31,2018-02-02,UTP,2016-05-16,Null,Dell Panama - UTP,1,1,1200
+753791,Online Leads & Chat Owner,https://gis.aiesec.org/v2/opportunities/753791,open,realized,GT,125,26,2016-06-18,2016-06-20,2016-12-23,UTP,2016-05-16,Null,Dell Panama - UTP,2,0,1200
+753775,Sales Support,https://gis.aiesec.org/v2/opportunities/753775,open,realized,GT,260,52,2016-06-18,2016-06-13,2017-06-16,UTP,2016-05-16,Null,Robert Bosch Panama,1,0,1100
+752977,Educando – Project Manager in JUPA,https://gis.aiesec.org/v2/opportunities/752977,open,unmatched,GV,2,7,2016-06-30,2016-07-04,2016-08-23,UTP,2016-05-13,Null,JUPA,1,1,0
+752971,Educando – Youth Enabler in JUPA,https://gis.aiesec.org/v2/opportunities/752971,open,unmatched,GV,3,7,2016-06-30,2016-07-04,2016-08-25,UTP,2016-05-13,Null,JUPA,4,4,0
+752900,Educando – Youth Enabler in Movimiento de Jóvenes Contra la Violencia,https://gis.aiesec.org/v2/opportunities/752900,open,unmatched,GV,8,6,2016-07-31,2016-08-08,2016-09-19,UTP,2016-05-13,Null,Jovenes Contra la Violencia,1,1,0
+752884,Educando – Youth Enabler in Movimiento de Jóvenes Contra la Violencia,https://gis.aiesec.org/v2/opportunities/752884,open,unmatched,GV,3,6,2016-07-31,2016-08-08,2016-09-19,UTP,2016-05-13,Null,Jovenes Contra la Violencia,1,1,0
+752622,Educando-Digital Marketing in Fas Panama,https://gis.aiesec.org/v2/opportunities/752622,open,unmatched,GV,1,7,2016-06-30,2016-07-04,2016-08-25,UTP,2016-05-12,Null,(FAS)-Panama,1,1,0
+752614,Educando-Digital Marketing in Fas Panama,https://gis.aiesec.org/v2/opportunities/752614,open,unmatched,GV,0,7,2016-06-30,2016-07-04,2016-08-25,UTP,2016-05-11,Null,(FAS)-Panama,1,1,0
+752608,Education-External Relations in Yo pinto una sonrisa,https://gis.aiesec.org/v2/opportunities/752608,open,unmatched,GV,4,6,2016-07-31,2016-08-08,2016-09-20,UTP,2016-05-11,Null,Yo pinto una sonrisa,1,1,0
+752596,Educando-Digital Marketing in Yo pinto una sonrisa,https://gis.aiesec.org/v2/opportunities/752596,open,unmatched,GV,1,6,2016-07-30,2016-08-08,2016-09-19,UTP,2016-05-11,Null,Yo pinto una sonrisa,2,2,0
+752595,Educando- Human resources Yo pinto una sonrisa,https://gis.aiesec.org/v2/opportunities/752595,open,unmatched,GV,8,6,2016-08-01,2016-08-08,2016-09-20,UTP,2016-05-11,Null,Yo pinto una sonrisa,1,1,0
+752040,Educando - Value Development in NUTEJE,https://gis.aiesec.org/v2/opportunities/752040,open,realized,GV,7,6,2016-06-21,2016-07-04,2016-08-15,UTP,2016-05-10,Null,Fundación Nutricional Teresa de Jesús,1,0,0
+752035,Educando - Skills Development in NUTEJE,https://gis.aiesec.org/v2/opportunities/752035,open,unmatched,GV,3,6,2016-06-21,2016-07-04,2016-08-15,UTP,2016-05-10,Null,Fundación Nutricional Teresa de Jesús,1,1,0
+752026,Educando - Digital Marketing in NUTEJE,https://gis.aiesec.org/v2/opportunities/752026,open,unmatched,GV,4,6,2016-06-21,2016-07-04,2016-08-15,UTP,2016-05-10,Null,Fundación Nutricional Teresa de Jesús,1,1,0
+752022,Educando - Talent Capacity Manager in ANCEC,https://gis.aiesec.org/v2/opportunities/752022,open,realized,GV,10,8,2016-06-21,2016-07-04,2016-08-29,UTP,2016-05-10,Null,ANCEC,1,0,0
+752021,Educando - External Relations Manager in ANCEC,https://gis.aiesec.org/v2/opportunities/752021,open,unmatched,GV,9,8,2016-06-21,2016-07-04,2016-08-29,UTP,2016-05-10,Null,ANCEC,1,1,0
+752019,Educando - Digital Marketing in ANCEC,https://gis.aiesec.org/v2/opportunities/752019,open,realized,GV,8,8,2016-06-21,2016-07-04,2016-08-29,UTP,2016-05-10,Null,ANCEC,1,0,0
+750996,Email Marketing Intern,https://gis.aiesec.org/v2/opportunities/750996,open,matched,GT,115,52,2016-08-03,2016-07-15,2017-07-15,UTP,2016-05-07,Null,Adidas Latin America,1,0,1000
+750995,BU Brand Intern,https://gis.aiesec.org/v2/opportunities/750995,open,realized,GT,168,52,2016-06-05,2016-06-23,2017-06-23,UTP,2016-05-07,Null,Adidas Latin America,1,0,1000$
+750958,Management Support,https://gis.aiesec.org/v2/opportunities/750958,open,realized,GE,211,52,2016-06-30,2016-05-23,2017-05-26,UTP,2016-05-06,Null,Sanofi Aventis,1,0,1150
+750957,Management Support,https://gis.aiesec.org/v2/opportunities/750957,open,unmatched,GT,173,52,2016-06-30,2016-05-23,2017-05-26,UTP,2016-05-06,Null,Sanofi Aventis,1,1,1150
+748761,Finance Projects Intern,https://gis.aiesec.org/v2/opportunities/748761,open,realized,GT,235,39,2016-06-30,2016-06-01,2017-03-01,UTP,2016-04-28,Null,Adidas Latin America,1,0,1000$
+748452,Finance Support Intern,https://gis.aiesec.org/v2/opportunities/748452,open,realized,GT,125,52,2016-05-31,2016-05-16,2017-05-19,Virtual Expansion Panama,2016-04-27,Null,Sanofi Aventis,1,0,1150
+748447,Partners Enablement and Development Nola,https://gis.aiesec.org/v2/opportunities/748447,open,realized,GT,133,78,2016-05-31,2016-05-09,2017-11-10,USMA,2016-04-27,Null,Dell Panama - UTP,1,0,1200
+748378,JEFE DE TRANSPORTE,https://gis.aiesec.org/v2/opportunities/748378,open,realized,GT,165,78,2016-07-15,2016-05-09,2017-11-11,UTP,2016-04-27,Null,YOBEL SCM,1,0,1200
+748369,Data Protection Business Development Intern,https://gis.aiesec.org/v2/opportunities/748369,open,completed,GT,107,78,2016-05-31,2016-05-09,2017-11-11,USMA,2016-04-27,Null,Dell Panama - UTP,1,0,1200
+748085,procurement to pay analyst,https://gis.aiesec.org/v2/opportunities/748085,draft,draft,GT,0,None,2016-04-01,Null,Null,UTP,2016-04-27,Null,Philips Latin America,1,1,Null
+747908,Asistente de Ventas y Mercadeo,https://gis.aiesec.org/v2/opportunities/747908,open,unmatched,GT,136,26,2016-07-22,2016-07-18,2017-01-16,UTP,2016-04-26,Null,DBM PANAMA- S.A.,1,1,1000
+747907,Brand communication intern,https://gis.aiesec.org/v2/opportunities/747907,draft,draft,GT,0,None,2016-04-29,Null,Null,UTP,2016-04-26,Null,Adidas Latin America,1,1,Null
+747906,Brand communication intern,https://gis.aiesec.org/v2/opportunities/747906,draft,draft,GT,0,None,2016-04-29,Null,Null,UTP,2016-04-26,Null,Adidas Latin America,1,1,Null
+747568,Marketing Operations- GTM Intern,https://gis.aiesec.org/v2/opportunities/747568,open,unmatched,GT,24,36,2016-06-18,2016-06-01,2017-02-08,UTP,2016-04-26,Null,Adidas Latin America,1,1,1000
+747561,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/747561,open,matched,GV,7,8,2016-06-05,2016-06-13,2016-08-08,VERAGUAS,2016-04-25,Null,ESCUELA DE EL OLIVO,1,0,.
+747449,Marketing - Farma,https://gis.aiesec.org/v2/opportunities/747449,open,realized,GT,35,26,2016-04-30,2016-04-25,2016-10-29,Virtual Expansion Panama,2016-04-25,Null,Sanofi Aventis,1,0,1250
+747448,Marketing - Farma,https://gis.aiesec.org/v2/opportunities/747448,draft,draft,GT,0,None,2016-04-30,Null,Null,Virtual Expansion Panama,2016-04-25,Null,Sanofi Aventis,1,1,Null
+747232,Educando Youth Enabler Project Manager/ Computer Educational Support,https://gis.aiesec.org/v2/opportunities/747232,open,unmatched,GV,2,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-24,Null,ESCUELA DE EL OLIVO,1,1,.
+746392,Teaching arts and physical education in Soy Capaz,https://gis.aiesec.org/v2/opportunities/746392,draft,draft,GV,0,8,2016-06-04,2016-07-04,2016-08-29,UTP,2016-04-21,Null,Soy Capaz,1,1,0
+746318,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/746318,open,realized,GV,3,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-21,Null,ESCUELA SALAMANCA,1,0,.
+746316,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/746316,open,unmatched,GV,2,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-21,Null,Share Your Voice-Veraguas..,1,1,.
+746304,Educando Youth Enabler Project Manager /English Educational Support,https://gis.aiesec.org/v2/opportunities/746304,open,unmatched,GV,2,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-21,Null,ESCUELA SALAMANCA,1,1,.
+746302,Educando Youth Enabler Project Manager /English Educational Support,https://gis.aiesec.org/v2/opportunities/746302,open,unmatched,GV,0,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-21,Null,ESCUELA DE QUEBRADA DE AGUA,1,1,.
+746297,Global Entrepreneur - Marketing,https://gis.aiesec.org/v2/opportunities/746297,draft,draft,GE,0,None,2016-08-18,Null,Null,USMA,2016-04-20,Null,none,1,1,Null
+746289,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/746289,open,matched,GV,11,8,2016-08-21,2016-09-19,2016-11-14,VERAGUAS,2016-04-20,Null,ESCUELA LLANO LARGO,1,0,.
+746285,Educando Youth Enabler Project Manager /English Educational Support,https://gis.aiesec.org/v2/opportunities/746285,open,unmatched,GV,0,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-20,Null,ESCUELA EL HATILLO,1,1,.
+746235,Finance Controlling Support,https://gis.aiesec.org/v2/opportunities/746235,open,realized,GT,2,52,2016-04-26,2016-05-12,2017-05-12,UTP,2016-04-20,Null,Sanofi Aventis,1,0,1250
+746234,Finance Controlling Support,https://gis.aiesec.org/v2/opportunities/746234,draft,draft,GT,0,None,2016-04-26,Null,Null,UTP,2016-04-20,Null,Sanofi Aventis,1,1,Null
+746233,Finance Controlling Support,https://gis.aiesec.org/v2/opportunities/746233,draft,draft,GT,0,None,2016-04-26,Null,Null,UTP,2016-04-20,Null,Sanofi Aventis,1,1,Null
+746152,Educando Youth Enabler/Educational Support,https://gis.aiesec.org/v2/opportunities/746152,open,unmatched,GV,2,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-20,Null,ESCUELA LOS CARATES,1,1,.
+746149,Educando Youth Enabler/Educational Support English,https://gis.aiesec.org/v2/opportunities/746149,open,unmatched,GV,3,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-20,Null,ESCUELA LLANO LARGO,1,1,.
+746148,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/746148,open,unmatched,GV,0,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-20,Null,ESCUELA EL HATILLO,1,1,0
+746137,Digital Marketing Scholar,https://gis.aiesec.org/v2/opportunities/746137,open,unmatched,GT,161,52,2016-05-30,2016-06-06,2017-06-05,USMA,2016-04-20,Null,Latam Digital Marketing,1,1,1000
+746135,Digital Campaign Manager,https://gis.aiesec.org/v2/opportunities/746135,open,unmatched,GT,82,52,2016-05-31,2016-06-01,2017-06-01,USMA,2016-04-20,Null,Latam Digital Marketing,1,1,1500
+746133,Sales,https://gis.aiesec.org/v2/opportunities/746133,open,realized,GT,145,34,2016-06-16,2016-06-01,2017-01-31,USMA,2016-04-20,Null,BIMBO Panama,1,0,1200
+746071,Educando Youth Enabler Project Manager/ Computer Educational Support,https://gis.aiesec.org/v2/opportunities/746071,open,unmatched,GV,0,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-19,Null,ESCUELA PEÑA CHATAS,1,1,0
+746065,Educando Youth Enabler/English Educational Support,https://gis.aiesec.org/v2/opportunities/746065,open,unmatched,GV,0,8,2016-06-04,2016-06-13,2016-08-08,VERAGUAS,2016-04-19,Null,ESCUELA PEÑA CHATAS,1,1,0
+744855,Marketing Trainee,https://gis.aiesec.org/v2/opportunities/744855,open,realized,GT,118,52,2016-04-28,2016-05-17,2017-05-17,UTP,2016-04-15,Null,Novartis Pharma,1,0,1000
+744754,Proyecto UP,https://gis.aiesec.org/v2/opportunities/744754,draft,draft,GV,0,10,2016-07-31,2016-04-18,2016-06-27,UP (University of Panama),2016-04-14,Null,UP Project,1,1,0
+744435,Global Entrepreneur - Marketing,https://gis.aiesec.org/v2/opportunities/744435,draft,draft,GE,40,8,2016-09-01,2016-06-20,2016-08-19,USMA,2016-04-13,Null,none,1,1,0
+743880,Education- Project Manager in Movimiento Nueva Generación,https://gis.aiesec.org/v2/opportunities/743880,open,unmatched,GV,7,8,2016-06-30,2016-07-04,2016-09-03,UTP,2016-04-12,Null,Movimiento Nueva Generación,1,1,0
+743878,Education- Support Education in Movimiento Nueva Generación,https://gis.aiesec.org/v2/opportunities/743878,open,unmatched,GV,5,8,2016-06-30,2016-07-04,2016-09-03,UTP,2016-04-12,Null,Movimiento Nueva Generación,3,3,0
+743875,Education- Abilities in Movimiento Nueva Generación,https://gis.aiesec.org/v2/opportunities/743875,open,unmatched,GV,6,8,2016-06-30,2016-07-04,2016-09-03,UTP,2016-04-12,Null,Movimiento Nueva Generación,3,3,0
+743867,Education- Values in Movimiento Nueva Generación,https://gis.aiesec.org/v2/opportunities/743867,open,unmatched,GV,4,8,2016-06-30,2016-07-04,2016-09-03,UTP,2016-04-12,Null,Movimiento Nueva Generación,3,3,0
+743859,Education - External Relations in Pro Niños de Darién,https://gis.aiesec.org/v2/opportunities/743859,open,unmatched,GV,1,8,2016-06-21,2016-07-03,2016-09-03,UTP,2016-04-12,Null,Pro Niños del Darién,1,1,$0
+743858,Education- Digital Marketing in AFS,https://gis.aiesec.org/v2/opportunities/743858,open,unmatched,GV,3,6,2016-06-30,2016-07-08,2016-08-25,UTP,2016-04-12,Null,AFS,1,1,0
+743854,Education- Project Manager in Arvita,https://gis.aiesec.org/v2/opportunities/743854,open,realized,GV,5,6,2016-07-17,2016-07-18,2016-08-31,UTP,2016-04-12,Null,Arvita,1,0,0
+743847,Education-External relations in Arvita,https://gis.aiesec.org/v2/opportunities/743847,open,realized,GV,2,6,2016-07-17,2016-07-18,2016-08-31,UTP,2016-04-12,Null,Arvita,1,0,0
+743327,Education- Digital Marketing in  Arvita,https://gis.aiesec.org/v2/opportunities/743327,open,unmatched,GV,2,6,2016-07-17,2016-07-18,2016-08-31,UTP,2016-04-10,Null,Arvita,1,1,0
+743326,Education- Human resources in Arvita,https://gis.aiesec.org/v2/opportunities/743326,open,realized,GV,4,12,2016-07-17,2016-06-05,2016-08-28,UTP,2016-04-10,Null,Arvita,1,0,0
+742595,Teaching arts and physical education in Soy Capaz,https://gis.aiesec.org/v2/opportunities/742595,open,unmatched,GV,2,8,2016-05-15,2016-06-06,2016-08-01,UTP,2016-04-08,Null,Soy Capaz,1,1,0
+742592,Education- Digital Marketing in Pro Niños de Darién,https://gis.aiesec.org/v2/opportunities/742592,open,unmatched,GV,0,8,2016-06-21,2016-07-04,2016-09-04,UTP,2016-04-08,Null,Pro Niños del Darién,1,1,0
+742591,Educando - Digital Marketing in Soy Capaz,https://gis.aiesec.org/v2/opportunities/742591,open,unmatched,GV,4,8,2016-06-15,2016-07-04,2016-09-04,UTP,2016-04-08,Null,Soy Capaz,1,1,0
+742588,Educando - Digital Marketing in Soy Capaz,https://gis.aiesec.org/v2/opportunities/742588,open,unmatched,GV,0,8,2016-05-15,2016-06-06,2016-08-01,UTP,2016-04-08,Null,Soy Capaz,1,1,0
+742520,Marketing Coordinator,https://gis.aiesec.org/v2/opportunities/742520,open,unmatched,GT,141,52,2016-04-29,2016-05-09,2017-05-09,UTP,2016-04-07,Null,Adidas Latin America,1,1,1000 USD (the first 6 months)
+742339,IMS Excellence,https://gis.aiesec.org/v2/opportunities/742339,open,unmatched,GT,42,26,2016-04-30,2016-04-15,2016-10-15,UTP,2016-04-07,Null,Philips Latin America,1,1,1200 USD
+742320,Sourcing Specialist,https://gis.aiesec.org/v2/opportunities/742320,open,unmatched,GT,60,26,2016-04-30,2016-04-12,2016-10-12,UTP,2016-04-07,Null,Philips Latin America,1,1,1200
+742117,Ethics & Business Integrity Intern – PAC / LATAM,https://gis.aiesec.org/v2/opportunities/742117,open,realized,GT,31,26,2016-04-26,2016-04-11,2016-10-14,USMA,2016-04-06,Null,Sanofi Aventis,1,0,1250
+741160,Global Entrepreneur- Marketing&Sales,https://gis.aiesec.org/v2/opportunities/741160,open,realized,GE,39,8,2016-05-30,2016-06-20,2016-08-19,USMA,2016-04-04,Null,Tutorez,1,0,0
+741158,Global Entrepreneur- IT,https://gis.aiesec.org/v2/opportunities/741158,open,realized,GE,29,8,2016-07-01,2016-06-20,2016-08-19,USMA,2016-04-04,Null,Tutorez,1,0,0
+740035,IMS Experience Manager,https://gis.aiesec.org/v2/opportunities/740035,draft,draft,GT,0,None,2016-04-27,Null,Null,UTP,2016-03-31,Null,Philips Latin America,1,1,Null
+739473,Educando Social development / Project Manager,https://gis.aiesec.org/v2/opportunities/739473,open,unmatched,GV,3,8,2016-06-04,2016-06-06,2016-08-01,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739468,Educando Social development / Team Member,https://gis.aiesec.org/v2/opportunities/739468,open,unmatched,GV,4,8,2016-06-04,2016-06-06,2016-08-01,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739377,Educando Gestión/ Marketing,https://gis.aiesec.org/v2/opportunities/739377,open,unmatched,GV,1,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739375,Educando Gestión / Human Resources,https://gis.aiesec.org/v2/opportunities/739375,open,unmatched,GV,3,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739373,Educando Gestión/ External relations,https://gis.aiesec.org/v2/opportunities/739373,open,unmatched,GV,0,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739369,Educando Gestión/Project Manager,https://gis.aiesec.org/v2/opportunities/739369,open,unmatched,GV,7,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,Fundación Ofrece un Hogar,1,1,.
+739177,Educando Social development / Team Member,https://gis.aiesec.org/v2/opportunities/739177,open,unmatched,GV,0,8,2016-06-04,2016-06-06,2016-08-01,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739176,Educando Social development / Project Manager,https://gis.aiesec.org/v2/opportunities/739176,open,unmatched,GV,1,8,2016-06-04,2016-06-06,2016-08-01,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739172,Educando Gestión/Project Manager,https://gis.aiesec.org/v2/opportunities/739172,open,unmatched,GV,3,9,2016-06-04,2016-06-04,2016-08-07,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739170,Educando Gestión / Human Resources,https://gis.aiesec.org/v2/opportunities/739170,open,unmatched,GV,2,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739169,Educando Gestión/ External relations,https://gis.aiesec.org/v2/opportunities/739169,open,unmatched,GV,1,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739168,Educando Gestión/ External relations,https://gis.aiesec.org/v2/opportunities/739168,open,unmatched,GV,0,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-29,Null,AviFauna,1,1,.
+739149,Educando Gestión/ Marketing,https://gis.aiesec.org/v2/opportunities/739149,open,approved,GV,2,8,2016-06-04,2016-06-06,2016-08-07,VERAGUAS,2016-03-28,Null,AviFauna,1,0,0
+739148,Educando Gestión  /Project Manager,https://gis.aiesec.org/v2/opportunities/739148,draft,draft,GV,0,None,2016-05-16,Null,Null,VERAGUAS,2016-03-28,Null,AviFauna,1,1,Null
+739147,Educando Gestión  /Project Manager,https://gis.aiesec.org/v2/opportunities/739147,draft,draft,GV,0,None,2016-05-16,Null,Null,VERAGUAS,2016-03-28,Null,AviFauna,1,1,Null
+738777,Customer Service Representative,https://gis.aiesec.org/v2/opportunities/738777,open,realized,GT,20,74,2016-03-31,2016-04-15,2017-09-15,UTP,2016-03-27,Null,Adidas Latin America,1,0,1,300 - 1,500 USD
+738476,HS S&OP Intern,https://gis.aiesec.org/v2/opportunities/738476,open,realized,GT,84,26,2016-05-31,2016-04-16,2016-10-16,UTP,2016-03-26,Null,Philips Latin America,1,0,1200 USD
+738189,Global Entrepreneur-Design,https://gis.aiesec.org/v2/opportunities/738189,open,unmatched,GE,22,8,2016-06-01,2016-06-20,2016-08-18,USMA,2016-03-24,Null,CascoStation,1,1,0
+738066,Global Entrepreneur-Marketing,https://gis.aiesec.org/v2/opportunities/738066,open,unmatched,GE,66,8,2016-05-31,2016-06-20,2016-08-19,USMA,2016-03-24,Null,CascoStation,1,1,0
+736981,Marketing Assistant,https://gis.aiesec.org/v2/opportunities/736981,open,realized,GT,210,52,2016-05-07,2016-05-02,2017-05-05,UTP,2016-03-21,Null,Dell Panama - UTP,1,0,1200
+736967,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736967,open,realized,GT,163,52,2016-04-30,2016-05-02,2017-05-05,UTP,2016-03-21,Null,Dell Panama - UTP,1,0,1200
+736966,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736966,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736958,Marketing Analyst,https://gis.aiesec.org/v2/opportunities/736958,open,realized,GT,203,52,2016-07-02,2016-06-20,2017-06-23,UTP,2016-03-21,Null,Dell Panama - UTP,1,0,1200
+736957,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736957,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736956,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736956,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736955,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736955,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736954,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736954,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736953,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736953,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736952,Financial Analysis Analyst,https://gis.aiesec.org/v2/opportunities/736952,draft,draft,GT,0,None,2016-04-30,Null,Null,UTP,2016-03-21,Null,Dell Panama - UTP,1,1,Null
+736717,Empoderando - Jaqué,https://gis.aiesec.org/v2/opportunities/736717,open,unmatched,GV,5,8,2016-08-31,2016-09-05,2016-11-05,ISTMO,2016-03-20,Null,Centro de Alcance - Jaqué,2,2,0
+736716,Empoderando - Cristóbal,https://gis.aiesec.org/v2/opportunities/736716,open,unmatched,GV,4,8,2016-08-31,2016-08-06,2016-10-01,ISTMO,2016-03-20,Null,Centro de Alcance - Cristóbal,1,1,0
+736706,Empoderando - Sur,https://gis.aiesec.org/v2/opportunities/736706,open,unmatched,GV,2,8,2016-08-31,2016-08-06,2016-10-01,ISTMO,2016-03-20,Null,Centro de Alcance - Sur,1,1,0
+736703,Empoderando - Grachiné,https://gis.aiesec.org/v2/opportunities/736703,open,unmatched,GV,2,8,2016-09-05,2016-09-05,2016-11-05,ISTMO,2016-03-20,Null,Centro de Alcance - Garachiné,2,2,0
+736700,Empoderando - Norte,https://gis.aiesec.org/v2/opportunities/736700,open,unmatched,GV,1,8,2016-08-31,2016-08-06,2016-10-01,ISTMO,2016-03-20,Null,Centro de Alcance - Norte,1,1,0
+736699,Empoderando - YAVIZA,https://gis.aiesec.org/v2/opportunities/736699,open,unmatched,GV,2,8,2016-08-31,2016-09-05,2016-11-05,ISTMO,2016-03-20,Null,Centro de Alcance - Yaviza,2,2,0

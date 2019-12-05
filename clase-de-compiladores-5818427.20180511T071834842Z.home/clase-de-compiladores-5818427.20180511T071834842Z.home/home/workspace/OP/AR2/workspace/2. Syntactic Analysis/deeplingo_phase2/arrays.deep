@@ -1,0 +1,11 @@
+/* File: arrays.deep
+ * Implementation of typical array operations.
+ * (C) 2018 Ariel Ortiz, ITESM CEM
+ */
+
+main() {
+    array = [73, 77, 56, 10, 14,,,,,,,,,,,,,,,,,,,
+             54, 75, 62, 71, 10,
+              3, 71, 16, 49, 66,
+             91, 69, 62, 25, 65]]]]]]]]]];
+}

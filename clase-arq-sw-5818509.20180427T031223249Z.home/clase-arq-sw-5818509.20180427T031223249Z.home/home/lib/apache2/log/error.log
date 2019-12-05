@@ -1,0 +1,3 @@
+[Mon Jan 22 07:27:50.596267 2018] [mpm_prefork:notice] [pid 13514] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Mon Jan 22 07:27:50.596355 2018] [core:notice] [pid 13514] AH00094: Command line: 'apache2'
+[Mon Jan 22 07:28:12.657861 2018] [mpm_prefork:notice] [pid 13514] AH00169: caught SIGTERM, shutting down

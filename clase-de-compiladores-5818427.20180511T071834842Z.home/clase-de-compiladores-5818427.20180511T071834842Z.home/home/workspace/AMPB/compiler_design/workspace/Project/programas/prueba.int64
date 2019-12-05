@@ -1,0 +1,18 @@
+var a, b ,c;
+main() {
+a = 5;
+b = 10;
+a = sumi(a,b);
+Printi(b);
+c = {1,2,3,4,5};
+}
+
+sumi(g,h){
+var f;
+g = g * 2;
+while(g < h ){
+g = g + 2;
+break;
+}
+return g; 
+}

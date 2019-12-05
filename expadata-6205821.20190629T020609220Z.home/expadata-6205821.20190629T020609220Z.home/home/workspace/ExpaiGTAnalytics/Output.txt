@@ -1,0 +1,50 @@
+1050902,Regulatory Excellence Support ,https://gis.aiesec.org/v2/opportunities/1050902,open,open,GT,0,74,2018-12-16,2019-01-14,2020-06-15,USMA,2018-12-06,Business Administration,Sanofi Aventis,1,1,1300
+1049407,Digital Communications and Content Management Specialist (Po,https://gis.aiesec.org/v2/opportunities/1049407,open,open,GT,3,25,2018-12-15,2019-01-01,2019-07-01,USMA,2018-12-03,Marketing,HILTI,1,1,1300
+1048555,Junior Programme Manager,https://gis.aiesec.org/v2/opportunities/1048555,open,open,GT,40,25,2019-01-17,2019-02-17,2019-08-17,BALBOA,2018-11-30,Marketing,Panamá,1,1,1200
+1048216,Especialista de Marketing,https://gis.aiesec.org/v2/opportunities/1048216,open,open,GT,9,50,2018-12-15,2019-01-13,2019-12-29,UTP,2018-11-29,Marketing,Nestle,1,1,1200
+1048194,Accounting Coordinator,https://gis.aiesec.org/v2/opportunities/1048194,open,matched,GT,6,21,2018-12-07,2018-12-02,2019-04-29,UTP,2018-11-29,Business Administration,NESTLÉ,1,0,1200
+1047257,Regulatory Excellence Support ,https://gis.aiesec.org/v2/opportunities/1047257,open,open,GT,9,74,2018-12-15,2019-01-14,2020-06-15,USMA,2018-11-27,Business Administration,Sanofi Aventis,1,1,1300
+1047227,Marketing Operations,https://gis.aiesec.org/v2/opportunities/1047227,open,realized,GT,3,29,2018-11-30,2018-12-02,2019-06-29,USMA,2018-11-27,Marketing,Fresenius Medical Care,1,0,1500
+1046865,Analista de Tesorería,https://gis.aiesec.org/v2/opportunities/1046865,open,approved,GT,3,75,2018-12-31,2018-12-15,2020-05-25,BALBOA,2018-11-26,Finance,Cervecería Nacional/SabMiller,1,0,1200
+1045753,Administration | Glasswing International,https://gis.aiesec.org/v2/opportunities/1045753,draft,draft,GV,0,6,2019-06-30,2019-06-03,2019-07-15,UTP,2018-11-23,Null,Glasswing International,1,1,Null
+1044826,Enlaces - F. Espacio Creativo - Impulse,https://gis.aiesec.org/v2/opportunities/1044826,open,approved,GV,2,6,2018-11-30,2019-01-01,2019-02-15,UTP,2018-11-22,Null,Espacio Cultural Creativo,1,0,Null
+1043784,Enlaces - IMPULSE ,https://gis.aiesec.org/v2/opportunities/1043784,draft,draft,GV,3,6,2019-03-15,2019-04-01,2019-05-13,UTP,2018-11-20,Null,Espacio Cultural Creativo,2,1,Null
+1042486,Enlaces- Espacio Creativo- Implulse Project ,https://gis.aiesec.org/v2/opportunities/1042486,draft,draft,GV,0,6,2018-12-31,2019-04-01,2019-05-17,UTP,2018-11-18,Null,Espacio Cultural Creativo,2,2,Null
+1042430,Digital Marketing - Improve Project - F. Palabra y Poder ,https://gis.aiesec.org/v2/opportunities/1042430,open,unmatched,GV,0,11,2018-11-30,2018-12-03,2019-02-22,UTP,2018-11-18,Null,EDISON,1,1,Null
+1041194,Sales Operations Analyst,https://gis.aiesec.org/v2/opportunities/1041194,open,open,GT,7,76,2018-12-17,2019-01-12,2020-06-28,UTP,2018-11-16,Business Administration,DELL Panama- S.A.,1,1,1200
+1041050,Marketing Analyst Assitant,https://gis.aiesec.org/v2/opportunities/1041050,open,open,GT,103,76,2018-12-11,2019-01-14,2020-06-29,USMA,2018-11-16,Marketing,Sanofi Aventis,1,1,1300
+1041046,Brand and Events Trainee,https://gis.aiesec.org/v2/opportunities/1041046,open,realized,GT,1,27,2018-11-18,2018-11-18,2019-05-26,UTP,2018-11-16,Business Administration,Janssen,1,0,1200
+1040031,English Teacher | Centro de Innovación,https://gis.aiesec.org/v2/opportunities/1040031,draft,draft,GV,0,6,2019-08-31,2019-07-22,2019-09-02,UTP,2018-11-14,Null,Centro de Innovacion,1,1,Null
+1040029,Digital Marketing | Improve | Centro de Innovacion,https://gis.aiesec.org/v2/opportunities/1040029,draft,draft,GV,0,6,2019-07-31,2019-07-01,2019-08-12,UTP,2018-11-14,Null,Centro de Innovacion,1,1,Null
+1040027,Portuguese Teacher | Centro de Innovacion,https://gis.aiesec.org/v2/opportunities/1040027,draft,draft,GV,0,6,2019-07-31,2019-07-01,2019-08-12,UTP,2018-11-14,Null,Centro de Innovacion,1,1,Null
+1040023,Digital Marketing | Improve | Centro de Innovacion,https://gis.aiesec.org/v2/opportunities/1040023,draft,draft,GV,0,6,2019-06-30,2019-06-03,2019-07-15,UTP,2018-11-14,Null,Centro de Innovacion,1,1,Null
+1040021,Spanish Teacher | Centro de Innovación,https://gis.aiesec.org/v2/opportunities/1040021,draft,draft,GV,0,6,2019-06-30,2019-06-03,2019-07-15,UTP,2018-11-14,Null,Centro de Innovacion,1,1,Null
+1039998,Improve | Glasswing,https://gis.aiesec.org/v2/opportunities/1039998,open,open,GV,0,6,2019-07-31,2019-06-03,2019-07-15,UTP,2018-11-14,Null,Glasswing International,1,1,Null
+1039991,Improve | Glasswing,https://gis.aiesec.org/v2/opportunities/1039991,open,open,GV,0,6,2019-06-30,2019-06-03,2019-07-15,UTP,2018-11-14,Null,Glasswing International,1,1,Null
+1039968,Human Resources | Improve | APLAFA,https://gis.aiesec.org/v2/opportunities/1039968,draft,draft,GV,1,6,2019-01-31,2019-01-14,2019-02-25,UTP,2018-11-14,Null,APLAFA Panama,1,1,Null
+1039962,Finance & Administration | Improve | APLAFA,https://gis.aiesec.org/v2/opportunities/1039962,draft,draft,GV,1,6,2019-01-31,2019-01-14,2019-02-25,UTP,2018-11-14,Null,APLAFA Panama,1,1,Null
+1039960,Fundraising | Improve | APLAFA Panama,https://gis.aiesec.org/v2/opportunities/1039960,draft,draft,GV,0,6,2019-01-31,2019-01-14,2019-02-25,UTP,2018-11-14,Null,APLAFA Panama,1,1,Null
+1039958,Digital Marketing | Improve | APLAFA,https://gis.aiesec.org/v2/opportunities/1039958,open,open,GV,5,6,2019-01-31,2019-01-14,2019-02-25,UTP,2018-11-14,Null,APLAFA Panama,2,1,Null
+1039697,Digital Marketing | Improve | Fundación Danilo Perez,https://gis.aiesec.org/v2/opportunities/1039697,open,open,GV,2,6,2018-12-31,2019-01-07,2019-02-18,UTP,2018-11-14,Null,Fundación Danilo Perez,1,1,Null
+1039696,Digital Marketing | Improve | Fundación Danilo Perez,https://gis.aiesec.org/v2/opportunities/1039696,open,matched,GV,1,6,2018-12-31,2018-12-17,2019-01-28,UTP,2018-11-14,Null,Fundación Danilo Perez,1,0,Null
+1039694,Digital Marketing | Improve | Disautonomía Panamá,https://gis.aiesec.org/v2/opportunities/1039694,draft,draft,GV,0,6,2019-01-31,2019-01-28,2019-03-11,UTP,2018-11-14,Null,Disautonomía Panama,1,1,Null
+1039689,Digital Marketing Panamá para niños-improve proyect,https://gis.aiesec.org/v2/opportunities/1039689,draft,draft,GV,0,6,2018-11-30,2018-12-02,2019-01-19,UTP,2018-11-14,Null,Panama,1,1,Null
+1039681,Digital Marketing | Improve | Disautonomía Panama,https://gis.aiesec.org/v2/opportunities/1039681,draft,draft,GV,0,6,2019-01-31,2019-01-07,2019-02-18,UTP,2018-11-14,Null,Disautonomía Panama,1,1,Null
+1039666,Digital Marketing | Improve | Make a Wish Panama,https://gis.aiesec.org/v2/opportunities/1039666,open,approved,GV,1,6,2019-01-31,2019-01-28,2019-03-11,UTP,2018-11-13,Null,Make a Wish Panama,1,0,Null
+1039000,Communications Pacific & Caribbean,https://gis.aiesec.org/v2/opportunities/1039000,open,open,GT,38,76,2018-12-13,2019-01-14,2020-06-29,USMA,2018-11-12,Marketing,Sanofi Aventis,1,1,1300
+1038836,Marketing Operations Coordinator,https://gis.aiesec.org/v2/opportunities/1038836,open,matched,GT,83,25,2018-12-28,2018-12-31,2019-06-28,UTP,2018-11-12,Business Administration,Panama,1,0,1500
+1032354,Procurement Support Specialist,https://gis.aiesec.org/v2/opportunities/1032354,open,open,GT,162,14,2019-01-14,2019-01-14,2019-04-28,UTP,2018-11-02,Business Administration,Nestlé,1,1,1200
+1030762,Especialista Asuntos Corporativos y Legal,https://gis.aiesec.org/v2/opportunities/1030762,draft,draft,GT,61,71,2019-01-15,2019-01-15,2020-05-28,BALBOA,2018-10-31,Business Administration,Cervecería Nacional/SabMiller,2,0,1200
+1029824,Order Management Assistant,https://gis.aiesec.org/v2/opportunities/1029824,open,matched,GT,145,25,2018-12-08,2019-01-03,2019-07-03,UTP,2018-10-30,Engineering,PHILIPS,1,0,1200
+1027738,Finance,https://gis.aiesec.org/v2/opportunities/1027738,open,unmatched,GT,28,21,2018-11-19,2018-12-01,2019-05-01,USMA,2018-10-26,Business Administration,Panama City,1,1,1300
+1026847,Finance Senior Analyst,https://gis.aiesec.org/v2/opportunities/1026847,open,approved,GT,75,73,2018-12-03,2018-12-03,2020-04-27,UTP,2018-10-25,Business Administration,DELL Panama- S.A.,1,0,1200
+1025963,Brand and Events Trainee,https://gis.aiesec.org/v2/opportunities/1025963,draft,draft,GT,141,27,2018-11-12,2018-11-17,2019-05-25,UTP,2018-10-24,Marketing,Janssen,1,1,1200
+1024348,Analista de Tesorería,https://gis.aiesec.org/v2/opportunities/1024348,removed,removed,GT,80,71,2019-01-15,2019-01-15,2020-05-27,BALBOA,2018-10-22,Business Administration,Cervecería Nacional/SabMiller,1,1,1200
+1024132,Young International Specialist - YIS Program Panama,https://gis.aiesec.org/v2/opportunities/1024132,draft,draft,GT,100,75,2019-01-15,2019-01-15,2020-06-29,UTP,2018-10-22,Other,Deutsche Post DHL Group,1,1,1200
+1024126,Young International Specialist - YIS Program Panama,https://gis.aiesec.org/v2/opportunities/1024126,open,in_progress,GT,84,78,2018-11-11,2019-01-01,2020-06-30,UTP,2018-10-22,Other,Deutsche Post DHL Group,1,1,1200
+1024118,Young International Specialist - YIS Program Panama,https://gis.aiesec.org/v2/opportunities/1024118,draft,draft,GT,111,75,2019-01-15,2019-01-15,2020-06-29,UTP,2018-10-22,Other,Deutsche Post DHL Group,1,1,1200
+1022570,Financial Planning and Analysis Analyst,https://gis.aiesec.org/v2/opportunities/1022570,open,open,GT,95,68,2019-01-15,2019-01-15,2020-05-07,UTP,2018-10-19,Business Administration,DELL Panama- S.A.,1,1,1200
+1020220,C&C migration support analyst,https://gis.aiesec.org/v2/opportunities/1020220,open,realized,GT,42,21,2018-10-30,2018-12-02,2019-05-03,UTP,2018-10-17,Business Administration,PHILIPS,1,0,1600
+1020217,C&C migration support analyst,https://gis.aiesec.org/v2/opportunities/1020217,open,realized,GT,17,26,2018-10-29,2018-12-14,2019-06-14,UTP,2018-10-17,Business Administration,PHILIPS,1,0,1500
+1020173,Administrative Procurement,https://gis.aiesec.org/v2/opportunities/1020173,open,unmatched,GT,140,78,2018-11-14,2018-11-27,2020-05-30,UTP,2018-10-17,Business Administration,MSD,1,1,1200
+1020172,Marketing Operations Coordinator,https://gis.aiesec.org/v2/opportunities/1020172,open,realized,GT,49,51,2018-10-17,2018-10-23,2019-10-15,UTP,2018-10-17,Business Administration,MSD,1,0,1600

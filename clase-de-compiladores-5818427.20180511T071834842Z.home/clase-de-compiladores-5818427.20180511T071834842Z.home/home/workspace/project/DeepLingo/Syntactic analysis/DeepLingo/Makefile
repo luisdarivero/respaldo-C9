@@ -1,0 +1,9 @@
+ 
+
+DeepLingo.exe: Driver.cs Scanner.cs Token.cs TokenCategory.cs Parser.cs \
+	SyntaxError.cs
+	mcs -out:DeepLingo.exe Driver.cs Scanner.cs Token.cs TokenCategory.cs \
+	Parser.cs SyntaxError.cs
+			
+clean:
+	rm DeepLingo.exe

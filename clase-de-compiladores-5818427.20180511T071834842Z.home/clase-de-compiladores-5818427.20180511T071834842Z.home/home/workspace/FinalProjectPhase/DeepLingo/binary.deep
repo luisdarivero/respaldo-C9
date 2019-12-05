@@ -1,0 +1,12 @@
+var globales;
+main(){
+    globales = 1;
+    if(!42){
+        globales = 2;
+    }
+    else{
+        globales = 3;
+    }
+    
+    printi(globales);
+}

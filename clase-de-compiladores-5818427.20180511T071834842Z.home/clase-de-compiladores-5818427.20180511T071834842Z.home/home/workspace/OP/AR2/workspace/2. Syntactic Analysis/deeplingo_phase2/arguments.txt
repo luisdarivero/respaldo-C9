@@ -1,0 +1,20 @@
+if (m.Groups["FunctionCall"].Success) {
+    char [] match = m.Value.Split(',');
+    foreach(char arg in match){
+        yield return newTok(arg, keywords[m.Value]); ????  
+        
+        
+        
+arrays
+ultimate
+literals
+palindrome
+
+next_day
+factorial
+binary
+
+Dudas:
+prints("\" is "); --> String literals do not contain newline or double-quote characters; in order to represent them, the same escape sequences as for character literals are available.
+'.' --> (?<CharLiteral>     [\'](.)[\'] 
+Argumetos (Assert (args1, ...) ¿Solo una o es recursivo?

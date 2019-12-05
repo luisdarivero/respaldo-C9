@@ -1,0 +1,41 @@
+/* File: palindrome.int64
+ * Determines if a string is a palindrome.
+ * (C) 2017 Ariel Ortiz, ITESM CEM
+ */
+
+// Returns true if str is a palindrome, false otherwise.
+is_palindrome(str) {
+    var start, finish;
+    start = 0;
+    finish = Size(str) - 1;
+    while (start < finish) {
+        if (Get(str, start) != Get(str, finish)) {
+            return false;
+        }
+        start = start + 1;
+        finish = finish - 1;
+    }
+    return true;
+}
+
+main() {
+    var str, option;
+    do {
+         Prints("Input a string: ");
+        str = Reads();
+         Prints("The string \"");
+         Prints(str);
+         Prints("\" is ");
+        if (is_palindrome(str)) {
+             Prints("NOT ");
+        }
+         Prints("a palindrome.\n");
+         Prints("Check another string? ");
+        option = Reads();
+        if (Size(option) == 0) {
+            option = 'N';
+        } else if (1 == 1){
+            option = Get(option, 0);
+        }
+    } while (option == 'Y' || option == 'y');
+}

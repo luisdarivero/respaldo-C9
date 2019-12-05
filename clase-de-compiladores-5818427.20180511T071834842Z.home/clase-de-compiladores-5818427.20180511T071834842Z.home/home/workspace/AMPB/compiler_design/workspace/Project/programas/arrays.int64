@@ -1,0 +1,95 @@
+/* File: arrays.int64
+ * Implementation of typical array operations.
+ * (C) 2017 Ariel Ortiz, ITESM CEM
+ */
+
+// Prints all the elements in the array list referred by handle a.
+print_array(a) {
+    var x, first;
+    first = true;
+    Printc('{');
+    for (x in a) {
+        if (first) {
+            first = false;
+        } else {
+            Prints(", ");
+        }
+        Printi(x);
+    }
+    Printc('}');
+}
+
+// Returns the addition of all elements in the array list referred by handle a.
+sum_array(a) {
+    var x, sum;
+    sum = 0;
+    for (x in a) {
+        sum = sum + x;
+    }
+    return sum;
+}
+
+// Returns the largest element in the array list referred by handle a.
+max_array(a) {
+    var max, x;
+    max = 0x8000000000000000; // This is the smallest number for a 64-bit int.
+    for (x in a) {
+        if (x > max) {
+            max = x;
+        }
+    }
+    return max;
+}
+
+// Sorts in-place the elements in the array list referred by handle a.
+// Uses the bubble sort algorithm.
+sort_array(a) {
+    var i, j, t, n, swap;
+    n = Size(a);
+    i = 0;
+    while (i < n - 1) {
+        j = 0;
+        swap = false;
+        while (j < n - i - 1) {
+            if (Get(a, j) > Get(a, j + 1)) {
+                t = Get(a, j);
+                Set(a, j, Get(a, j + 1));
+                Set(a, j + 1, t);
+                swap = true;
+            }
+            j = j + 1;
+        }
+        if (swap) {
+           ;
+        }
+        else{
+            break;
+        }
+        i = i + 1;
+    }
+}
+
+main() {
+    var array, sum, max;
+    array = {
+        73, 77, 56, 10, 14,
+        54, 75, 62, 71, 10,
+         3, 71, 16, 49, 66,
+        91, 69, 62, 25, 65
+    };
+    Prints("Original array: ");
+    print_array(array);
+    Println();
+    sum = sum_array(array);
+    max = max_array(array);
+    Prints("Sum of array:   ");
+    Printi(sum);
+    Println();
+    Prints("Max of array:   ");
+    Printi(max);
+    Println();
+    sort_array(array);
+    Prints("Sorted array:   ");
+    print_array(array);
+    Println();
+}

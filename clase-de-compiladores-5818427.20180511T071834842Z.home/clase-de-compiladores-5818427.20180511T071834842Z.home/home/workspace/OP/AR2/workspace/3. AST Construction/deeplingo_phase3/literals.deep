@@ -1,0 +1,20 @@
+/* File: literals.deep
+ * Verifies that the implementation of literal values meet the specified
+ * requirements.
+ * (C) 2018 Ariel Ortiz, ITESM CEM
+ */
+
+var fails, param1, param2;
+
+assert(value1, value2, message) {
+    
+}
+
+
+main() {
+    var i;
+    var n;
+    n = -i;
+    
+    
+}

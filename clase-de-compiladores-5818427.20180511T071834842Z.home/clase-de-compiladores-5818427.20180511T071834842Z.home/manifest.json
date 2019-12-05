@@ -1,0 +1,12 @@
+{
+  "name": "clase-de-compiladores",
+  "id": "5818427",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "cpp",
+  "dockerBaseImage": "cloud9/ws-cpp:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "luisyo_985",
+    "id": "1441933"
+  }
+}
